@@ -1,4 +1,3 @@
-def parse_cmd_arguments():  # allows for arguments
     parser = argparse.ArgumentParser(description="Discord-Selfbot")
     parser.add_argument("-test", "--test-run",  # test run flag for Travis
                         action="store_true",
