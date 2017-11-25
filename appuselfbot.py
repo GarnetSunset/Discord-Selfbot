@@ -1,4 +1,3 @@
-                        pass
                     msg = ''
                     for i in range(0, total_context):
                         temp = context[len(context)-i-1][0]
