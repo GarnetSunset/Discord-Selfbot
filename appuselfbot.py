@@ -1,4 +1,3 @@
-                await ctx.send(content=None, embed=latest)
             except:
                 pass
             with open('quit.txt', 'w', encoding="utf8") as q:
