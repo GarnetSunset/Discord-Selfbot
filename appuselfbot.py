@@ -1,4 +1,3 @@
-            print('Restarting...')
             await ctx.send(bot.bot_prefix + 'Restarting...')
         else:
             try:
