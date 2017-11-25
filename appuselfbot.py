@@ -1,4 +1,3 @@
-                            total_context += 1
                     except IndexError:  # This usually means that the bot's internal log has not been sufficiently populated yet
                         pass
                     msg = ''
