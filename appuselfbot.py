@@ -1,4 +1,3 @@
-            if f.endswith('sample') and f[:-7] not in samples:
                 with open('settings/%s' % f, 'r', encoding="utf8") as template:
                     with open('settings/%s' % f[:-7], 'w', encoding="utf8") as g:
                         fields = json.load(template)
