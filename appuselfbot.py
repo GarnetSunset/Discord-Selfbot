@@ -1,4 +1,3 @@
-                    is_separate = True
                 else:
                     location = bot.log_conf['log_location'].split()
                     is_separate = False
