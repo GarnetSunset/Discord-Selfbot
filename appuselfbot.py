@@ -1,4 +1,3 @@
-if shutdown is True and not _force_admin:
     if os.name == 'nt':
         print('It is not advised to run the bot as Admin.\nContinuing logging in...')
     else:
