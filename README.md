@@ -1,4 +1,3 @@
-- Used the code for lockdown commands from [Kurisu](https://github.com/916253/Kurisu/blob/master/addons/lockdown.py) bot. Slight modifications is message sending and contents of messages.
 - Used a lot of [Danny's](https://github.com/Rapptz) code for certain parts, especially parsing Google cards and the debugger.
 - Used [eye-sigil's](https://github.com/eye-sigil) code for the >repl command.
 - Thanks to [IgneelDxD](https://github.com/IgneelDxD) for a lot of suggestions and fixes.
