@@ -1,4 +1,3 @@
-                        temp = context[len(context)-i-1][0]
                         if temp.clean_content:
                             msg += 'User: %s | %s\n' % (temp.author.name, temp.created_at.replace(tzinfo=timezone.utc).astimezone(tz=None).__format__('%x @ %X')) + temp.clean_content.replace('`', '') + '\n\n'
                     msg += 'User: %s | %s\n' % (message.author.name, message.created_at.replace(tzinfo=timezone.utc).astimezone(tz=None).__format__('%x @ %X')) + message.clean_content.replace('`', '')
