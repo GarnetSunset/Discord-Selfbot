@@ -1,4 +1,3 @@
-					if [ $ret == "15" ]; then
 						min_updater
 						run_bot
 					else
