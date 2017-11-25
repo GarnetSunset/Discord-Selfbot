@@ -1,4 +1,3 @@
-            json.dump(games, g, indent=4)
 
     # Dealing with old versions updating
     if not os.path.isfile('settings/fc.json'):
