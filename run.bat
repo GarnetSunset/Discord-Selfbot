@@ -1,4 +1,3 @@
-	echo Press any key to exit.
 	pause >nul
 	CD /D "%root%"
 	goto :EOF
