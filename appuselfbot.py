@@ -1,4 +1,3 @@
-                bot.game_interval = games['interval']
             else:
                 bot.game = games['games']
             if 'stream' not in games:
