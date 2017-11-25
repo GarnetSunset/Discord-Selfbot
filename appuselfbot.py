@@ -1,4 +1,3 @@
-            with open("custom_cogs/what_is_this.txt", 'w') as fp:
                 fp.write(text)
             site = requests.get('https://github.com/LyricLy/ASCII/tree/master/cogs').text
             soup = BeautifulSoup(site, "html.parser")
