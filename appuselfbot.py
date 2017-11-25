@@ -1,4 +1,3 @@
-    """Quits the bot."""
     print('Bot exiting...')
     if bot.subpro:
         bot.subpro.kill()
