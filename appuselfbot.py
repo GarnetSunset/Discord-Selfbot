@@ -1,4 +1,3 @@
-    for extension in os.listdir("cogs"):
         if extension.endswith('.py'):
             try:
                 bot.load_extension("cogs." + extension[:-3])
