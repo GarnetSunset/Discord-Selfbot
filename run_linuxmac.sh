@@ -1,4 +1,3 @@
-			echo "Using global pip3 executable"
 			if pip3 install --user -r requirements.txt; then
 				echo "Starting bot..."
 				python3 loopself.py
