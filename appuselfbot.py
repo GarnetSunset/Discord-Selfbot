@@ -1,4 +1,3 @@
-                            await message.channel.send(response[1])
                     else:
                         await message.channel.send(response[1])
             else:
