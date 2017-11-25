@@ -1,4 +1,3 @@
-                pass
             return
         with open('quit.txt', 'w', encoding="utf8") as q:
             q.write('update')
