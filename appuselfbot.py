@@ -1,4 +1,3 @@
-            await ctx.send(bot.bot_prefix + 'Restarting...')
         else:
             try:
                 await ctx.send(content=None, embed=latest)
