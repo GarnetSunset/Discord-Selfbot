@@ -1,4 +1,3 @@
-        await ctx.send(bot.bot_prefix + 'The bot is up to date.')
 
 
 @bot.command(pass_context=True, aliases=['stop', 'shutdown'])
