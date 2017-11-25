@@ -1,4 +1,3 @@
-            channel = bot.get_channel(int(re.readline()))
             print('Bot has restarted.')
             await channel.send(bot.bot_prefix + 'Bot has restarted.')
         os.remove('restart.txt')
