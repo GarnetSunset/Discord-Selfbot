@@ -1,4 +1,3 @@
-            pass
         if hasattr(bot, 'self_log'):
             try:
                 if str(message.channel.id) not in bot.self_log:
