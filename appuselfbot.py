@@ -1,4 +1,3 @@
-        if not msg == 'show':
             if embed_perms(ctx.message):
                 try:
                     await ctx.send(content=None, embed=latest)
