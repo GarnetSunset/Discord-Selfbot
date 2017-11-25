@@ -1,4 +1,3 @@
-CD /D %root%
 SETLOCAL EnableDelayedExpansion
 python -V >nul 2>&1 || goto :python
 git init . >nul || goto :git
