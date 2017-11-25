@@ -1,4 +1,3 @@
-    if msg:
         latest = update_bot(False) if msg == 'show' else update_bot(True)
     else:
         latest = update_bot(True)
