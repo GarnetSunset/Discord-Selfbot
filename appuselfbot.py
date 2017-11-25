@@ -1,4 +1,3 @@
-            if hasattr(bot, 'game_time') and hasattr(bot, 'game'):
                 if bot.game:
                     if bot.game_interval:
                         game_check = game_time_check(bot.game_time, bot.game_interval)
