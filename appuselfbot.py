@@ -1,4 +1,3 @@
-    channel = temp[len(temp) - 2]
     token = temp[len(temp) - 1]
     webhook_class = Webhook(bot)
     request_webhook = webhook_class.request_webhook
