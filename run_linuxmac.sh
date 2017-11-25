@@ -1,4 +1,3 @@
-				echo "Upgrading requirements"
 				if python -m pip install --user -r requirements.txt; then
 					echo "Starting bot..."
 					python loopself.py
