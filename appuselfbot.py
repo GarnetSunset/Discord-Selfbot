@@ -1,4 +1,3 @@
-                                avi_config = json.load(g)
                             all_avis = os.listdir('avatars')
                             all_avis.sort()
                             if avi_config['type'] == 'random':
