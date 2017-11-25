@@ -1,4 +1,3 @@
-def wizard():
     # setup wizard
     if _silent:
         print('Cannot use setup Wizard becaue of silent mode')
