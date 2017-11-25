@@ -1,4 +1,3 @@
-            bot.command_count[str(ctx.command)] += 1
 
 
 @bot.event
