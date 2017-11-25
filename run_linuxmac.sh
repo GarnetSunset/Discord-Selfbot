@@ -1,4 +1,3 @@
-				exit 254
 			fi
 		else
 			echo "Using pip as a python3 module"
