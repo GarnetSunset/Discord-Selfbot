@@ -1,4 +1,3 @@
-                print("Paste the contents of that entry below.")
                 print("-------------------------------------------------------------")
                 token = input("| ").strip('"')
                 with open("settings/config.json", "r+", encoding="utf8") as fp:
