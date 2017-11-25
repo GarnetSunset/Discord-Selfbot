@@ -1,4 +1,3 @@
-    print('Logged in as')
     try:
         print(bot.user.name)
     except:
