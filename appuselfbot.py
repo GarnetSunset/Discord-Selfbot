@@ -1,4 +1,3 @@
-        try:
             if hasattr(bot, 'ignored_servers'):
                 if any(str(message.guild.id) == str(guild_id) for guild_id in bot.ignored_servers['servers']):
                     return
