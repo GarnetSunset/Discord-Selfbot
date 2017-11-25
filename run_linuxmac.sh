@@ -1,4 +1,3 @@
-}
 
 updater
 run_bot
