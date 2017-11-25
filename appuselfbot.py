@@ -1,4 +1,3 @@
-        for i in bot.extensions:
             utils.append(i)
         l = len(utils)
         utils.append(utils.pop(utils.index('cogs.help')))
