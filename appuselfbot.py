@@ -1,4 +1,3 @@
-                            word_found = False
                             break
 
             user_found = False
