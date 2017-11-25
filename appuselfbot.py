@@ -1,4 +1,3 @@
-                        except:
                             pass
                         if bot.notify['type'] == 'msg':
                             await webhook(em, 'embed', is_separate)
