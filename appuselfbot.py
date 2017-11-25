@@ -1,5 +1,4 @@
 
-
 def wizard():
     # setup wizard
     if _silent:
