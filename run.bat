@@ -1,4 +1,3 @@
-	git reset --hard origin/master
 	echo Finished updating
 	echo Starting up...
 	goto run
