@@ -1,4 +1,3 @@
-			else
 				echo ""
 				echo "Cancelled update"
 			fi
