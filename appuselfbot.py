@@ -1,4 +1,3 @@
-    else:
         utils = []
         for i in bot.extensions:
             utils.append(i)
