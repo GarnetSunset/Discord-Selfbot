@@ -1,4 +1,3 @@
-                            if games['type'] == 'random':
                                 while next_game == current_game:
                                     next_game = random.randint(0, len(games['games']) - 1)
                                 current_game = next_game
