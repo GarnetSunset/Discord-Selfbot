@@ -1,4 +1,3 @@
-    else:
         temp = bot.log_conf['webhook_url2'].split('/')
     channel = temp[len(temp) - 2]
     token = temp[len(temp) - 1]
