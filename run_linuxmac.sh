@@ -1,4 +1,3 @@
-				echo "Starting bot..."
 				python3 loopself.py
 				ret=$?
 				if [ $ret == "15" ]; then
