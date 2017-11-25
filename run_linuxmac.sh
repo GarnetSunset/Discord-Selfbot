@@ -1,4 +1,3 @@
-	echo "Starting auto-update"
 	if hash git 2>/dev/null; then
 		echo "Fetching origin"
 		git init >/dev/null 2>&1
