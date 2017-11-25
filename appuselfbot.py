@@ -1,4 +1,3 @@
-            await channel.send(bot.bot_prefix + 'Bot has restarted.')
         os.remove('restart.txt')
     bot.log_conf = load_log_config()
     bot.key_users = bot.log_conf['keyusers']
