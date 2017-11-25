@@ -1,4 +1,3 @@
-    if os.path.isfile('restart.txt'):
         with open('restart.txt', 'r', encoding="utf8") as re:
             channel = bot.get_channel(int(re.readline()))
             print('Bot has restarted.')
