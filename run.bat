@@ -1,4 +1,3 @@
-	    echo Press any key to exit.
 	    set /p input=
 	    exit
 	)
