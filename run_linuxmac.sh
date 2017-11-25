@@ -1,4 +1,3 @@
-    echo "Unable to set script's directory as the current working directory. You will need to make sure you run the script from it's directory."
 fi
 
 updater () {
