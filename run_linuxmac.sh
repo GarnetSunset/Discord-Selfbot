@@ -1,4 +1,3 @@
-				echo "Cancelled update"
 			fi
 		fi
 		sleep 1
