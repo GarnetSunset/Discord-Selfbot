@@ -1,4 +1,3 @@
-)
 git remote show origin > tmp.txt
 set findfile="tmp.txt"
 set findtext="up"
