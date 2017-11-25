@@ -1,4 +1,3 @@
-		echo "sudo apt-get install git-all"
 	fi
 }
 
