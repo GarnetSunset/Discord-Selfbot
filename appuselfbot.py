@@ -1,4 +1,3 @@
-                        user_found = message.author.name
 
             if word_found is True or user_found:
                 if bot.log_conf['user_location'] != bot.log_conf['log_location'] and bot.log_conf['user_location'] != '' and not word_found:
