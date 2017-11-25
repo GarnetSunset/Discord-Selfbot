@@ -1,4 +1,3 @@
-                        em = discord.Embed(timestamp=message.created_at, color=0xbc0b0b, title=title, description='Server: ``%s``\nChannel: <#%s> | %s\n\n**Context:**' % (str(message.guild), str(message.channel.id), message.channel.name))
                         while context:
                             temp = context.pop()
                             if temp[0].clean_content:
