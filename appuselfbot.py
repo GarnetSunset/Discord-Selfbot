@@ -1,4 +1,3 @@
-
 @bot.command(pass_context=True, aliases=['stop', 'shutdown'])
 async def quit(ctx):
     """Quits the bot."""
