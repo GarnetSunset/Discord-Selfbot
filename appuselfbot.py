@@ -1,4 +1,3 @@
-    while not config["cmd_prefix"]:
         print("\nEnter the command prefix you want to use for main commands (e.g. if you enter > you will use commands like so: >about).")
         print("-------------------------------------------------------------")
         config["cmd_prefix"] = input("| ").strip()
