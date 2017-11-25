@@ -1,4 +1,3 @@
-        data = {"bnet_fc": "", "ds_fc": "", "psn_fc": "", "steam_fc": "", "switch_fc": "", "xbox_fc": ""}
         dataIO.save_json("settings/fc.json", data)
     if not os.path.isfile('settings/replacements.json'):
         data = {":lennyface:": "( ͡° ͜ʖ ͡°)", ":tableflip": "(╯°□°）╯︵ ┻━┻"}
