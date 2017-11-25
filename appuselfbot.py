@@ -1,4 +1,3 @@
-        pass
     print('User id:' + str(bot.user.id))
     print('------')
     bot.uptime = datetime.datetime.now()
