@@ -1,4 +1,3 @@
-            g.seek(0)
             g.truncate()
             json.dump(games, g, indent=4)
 
