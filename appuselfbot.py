@@ -1,4 +1,3 @@
-    print('Bot exiting...')
     if bot.subpro:
         bot.subpro.kill()
     open('quit.txt', 'a', encoding="utf8").close()
