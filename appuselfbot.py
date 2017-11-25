@@ -1,4 +1,3 @@
-import psutil
 import sys
 import re
 import traceback
