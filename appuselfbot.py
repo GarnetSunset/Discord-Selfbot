@@ -1,4 +1,3 @@
-            if message.content.startswith(bot.customcmd_prefix):
                 response = custom(message.content.lower().strip())
                 if response:
                     await message.delete()
