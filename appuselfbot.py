@@ -1,4 +1,3 @@
-                bot.game = games['games'][0]
                 bot.game_interval = games['interval']
             else:
                 bot.game = games['games']
