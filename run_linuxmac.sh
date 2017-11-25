@@ -1,4 +1,3 @@
-		if git pull origin master ; then
 			echo "Update succeeded"
 			sleep 2
 		else
