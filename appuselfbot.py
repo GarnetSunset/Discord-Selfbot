@@ -1,4 +1,3 @@
-        datefmt="[%d/%m/%Y %H:%M]")
 
     logger = logging.getLogger("discord")
     logger.setLevel(logging.INFO)
