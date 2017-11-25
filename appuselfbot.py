@@ -1,4 +1,3 @@
-                        fields = json.load(template)
                         json.dump(fields, g, sort_keys=True, indent=4)
     except:
         print('Something when wrong. Check for missing sample files')  # only visible in Travis
