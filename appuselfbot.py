@@ -1,4 +1,3 @@
-                    else:
                         await message.channel.send(response[1])
             else:
                 response = quickcmds(message.content.lower().strip())
