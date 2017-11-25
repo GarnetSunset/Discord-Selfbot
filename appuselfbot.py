@@ -1,4 +1,3 @@
-                        em.add_field(name='%s' % message.author.name, value=message.clean_content, inline=False)
                         try:
                             em.set_thumbnail(url=message.author.avatar_url)
                         except:
