@@ -1,4 +1,3 @@
-                    print('Cannot use setup Wizard becaue of silent mode')
                     exit(0)
                 print("It seems the token you entered is incorrect or has changed. If you changed your password or enabled/disabled 2fa, your token will change. Grab your new token. Here's how you do it:\n")
                 print("Go into your Discord window and press Ctrl+Shift+I (Ctrl+Opt+I can also work on macOS)")
