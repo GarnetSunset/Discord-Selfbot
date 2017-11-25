@@ -1,4 +1,3 @@
-import sys
 
 while True:
     if os.path.isfile('quit.txt'):
