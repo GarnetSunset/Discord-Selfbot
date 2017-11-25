@@ -1,4 +1,3 @@
-:git
 	TITLE Error!
 	echo Git not found, Download here: https://git-scm.com/downloads
 	echo Press any key to exit.
