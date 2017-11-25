@@ -1,4 +1,3 @@
-                            bot.game = games['games']
                             if bot.is_stream and '=' in games['games']:
                                 g, url = games['games'].split('=')
                                 await bot.change_presence(game=discord.Game(name=g, type=1, url=url), status=set_status(bot), afk=True)
