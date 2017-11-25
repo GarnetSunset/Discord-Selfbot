@@ -1,4 +1,3 @@
-	echo Checking/Installing requirements (takes some time on first install)...
 	chcp 65001 >nul
 	set PYTHONIOENCODING=utf-8
 	python -m pip install --user --upgrade pip >nul
