@@ -1,4 +1,3 @@
-findstr %findtext% %findfile% >nul 2>&1		
 if errorlevel 1 goto forward		
 goto run		
 
