@@ -1,4 +1,3 @@
-
 - Thanks to [architdate](https://github.com/architdate), [LyricLy](https://github.com/LyricLy), and [chenzw95](https://github.com/chenzw95) for actively participating in development, addition of new features, and other optimizations.
 - Thanks to [Hubcapp](https://github.com/Hubcapp) for the much improved >react command.
 - Thanks to [adjnouobsref](https://github.com/adjnouobsref) for the spoiler tags and various other contributions.
