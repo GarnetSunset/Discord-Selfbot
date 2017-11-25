@@ -1,4 +1,3 @@
-                    if get_config_value('optional_config', 'rich_embed') == 'on':
                         if response[0] == 'embed' and embed_perms(message):
                             try:
                                 if get_config_value('optional_config', 'customcmd_color'):
