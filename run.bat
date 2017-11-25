@@ -1,4 +1,3 @@
-SET root=%~dp0
 CD /D %root%
 SETLOCAL EnableDelayedExpansion
 python -V >nul 2>&1 || goto :python
