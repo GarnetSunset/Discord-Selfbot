@@ -1,4 +1,3 @@
-            try:
                 if str(message.channel.id) not in bot.self_log:
                     bot.self_log[str(message.channel.id)] = collections.deque(maxlen=100)
             except AttributeError:
