@@ -1,4 +1,3 @@
-                                elif bot.notify['type'] == 'ping':
                                     await webhook('```%s```' % i, 'message ping', is_separate)
                                 else:
                                     await guild.get_channel(int(location[0])).send('```%s```' % i)
