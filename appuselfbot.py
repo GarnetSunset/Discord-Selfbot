@@ -1,4 +1,3 @@
-        bot.all_log[channel + ' ' + guild].append((message, message.clean_content))
 
 
 def remove_alllog(channel, guild):
