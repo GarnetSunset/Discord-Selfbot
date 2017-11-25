@@ -1,4 +1,3 @@
-            site = requests.get('https://github.com/LyricLy/ASCII/tree/master/cogs').text
             soup = BeautifulSoup(site, "html.parser")
             data = soup.find_all(attrs={"class": "js-navigation-open"})
             list = []
