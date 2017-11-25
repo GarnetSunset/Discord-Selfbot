@@ -1,4 +1,3 @@
-    stdout_handler = logging.StreamHandler(sys.stdout)
     stdout_handler.setLevel(logging.INFO)
 
     if not os.path.exists('settings/logs'):
