@@ -1,4 +1,3 @@
-    if os.geteuid() == 0:
         shutdown = True
     else:
         shutdown = False
