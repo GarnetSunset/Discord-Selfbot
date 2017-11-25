@@ -1,4 +1,3 @@
-		git fetch origin master
 		if [ -d "settings" ]; then
 			cp -r settings settings_backup
 		fi
