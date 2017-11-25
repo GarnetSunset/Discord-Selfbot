@@ -1,4 +1,3 @@
-    if txt:
         bot.unload_extension(txt)
         try:
             bot.load_extension(txt)
