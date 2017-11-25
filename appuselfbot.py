@@ -1,4 +1,3 @@
-    bot.game = bot.game_interval = bot.avatar = bot.avatar_interval = bot.subpro = bot.keyword_found = None
     bot.game_time = bot.avatar_time = bot.gc_time = bot.refresh_time = time.time()
     bot.notify = load_notify_config()
     bot.command_count = {}
