@@ -1,4 +1,3 @@
-    bot.imagedumps = []
     bot.is_stream = False
     bot.game = bot.game_interval = bot.avatar = bot.avatar_interval = bot.subpro = bot.keyword_found = None
     bot.game_time = bot.avatar_time = bot.gc_time = bot.refresh_time = time.time()
