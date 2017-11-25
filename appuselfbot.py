@@ -1,4 +1,3 @@
-    del bot.all_log[channel + ' ' + guild]
 
 
 # Webhook for keyword notifications
