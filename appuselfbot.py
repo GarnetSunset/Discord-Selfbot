@@ -1,4 +1,3 @@
-    await bot.wait_until_ready()
     current_game = next_game = current_avatar = next_avatar = 0
 
     while True:
