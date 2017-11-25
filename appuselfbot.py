@@ -1,4 +1,3 @@
-                                    await webhook(bot.bot_prefix + '%s in server: ``%s`` Context: Channel: <#%s> | %s\n\n```%s```' % (logged_msg, str(message.guild), str(message.channel.id), message.channel.name, i), 'message ping', is_separate)
                                 else:
                                     await guild.get_channel(int(location[0])).send(bot.bot_prefix + '%s in server: ``%s`` Context: Channel: <#%s>\n\n```%s```' % (logged_msg, str(message.guild), str(message.channel.id), i))
                             else:
