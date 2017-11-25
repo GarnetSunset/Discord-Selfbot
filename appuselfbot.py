@@ -1,4 +1,3 @@
-        shutdown = False
     else:
         shutdown = True
 else:
