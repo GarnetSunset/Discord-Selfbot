@@ -1,4 +1,3 @@
-            if i.id == bot.user.id:
                 bot.mention_count += 1
 
     if not hasattr(bot, 'log_conf'):
