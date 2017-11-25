@@ -1,4 +1,3 @@
-	CD /D "%root%"
 	goto :EOF
 :python
 	TITLE Error!
