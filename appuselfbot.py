@@ -1,4 +1,3 @@
-
     logger.addHandler(errhandler)
 
     return logger
