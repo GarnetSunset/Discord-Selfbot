@@ -1,4 +1,3 @@
-        o_conf = {'google_api_key': conf['google_api_key'], 'custom_search_engine': conf['custom_search_engine'], 'mal_username': conf['mal_username'], 'mal_password': conf['mal_password']}
         with open('settings/optional_config.json', 'w', encoding="utf8") as oc:
             json.dump(o_conf, oc, indent=4)
     with open('settings/optional_config.json', 'r+', encoding="utf8") as fp:
