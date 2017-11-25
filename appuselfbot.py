@@ -1,4 +1,3 @@
-                            if word.lower() in message.content.lower():
                                 word_found = True
                                 break
 
