@@ -1,4 +1,3 @@
-
 shutdown = False
 if os.name == 'nt':
     try:
