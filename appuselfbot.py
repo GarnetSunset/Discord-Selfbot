@@ -1,4 +1,3 @@
-                    except IndexError:  # This usually means that the bot's internal log has not been sufficiently populated yet
                         pass
                     msg = ''
                     for i in range(0, total_context):
