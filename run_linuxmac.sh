@@ -1,4 +1,3 @@
-					echo "Pull failed, attempting to hard reset to origin master (settings are still saved)"
 					git fetch --all
 					git reset --hard origin/master
 					echo "Update succeeded"
