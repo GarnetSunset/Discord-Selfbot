@@ -1,4 +1,3 @@
-                        action="store_true",
                         help="Supresses all errors")
     return parser
 
