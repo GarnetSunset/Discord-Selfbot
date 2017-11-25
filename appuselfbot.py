@@ -1,4 +1,3 @@
-from cogs.utils.checks import *
 from cogs.utils.config import *
 from discord.ext import commands
 
