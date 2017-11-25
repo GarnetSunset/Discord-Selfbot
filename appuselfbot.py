@@ -1,4 +1,3 @@
-                p.kill()
             except:
                 pass
             os.remove('notifier.txt')
