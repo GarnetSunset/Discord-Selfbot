@@ -1,4 +1,3 @@
-                            with open('settings/games.json', encoding="utf8") as g:
                                 games = json.load(g)
                             if games['type'] == 'random':
                                 while next_game == current_game:
