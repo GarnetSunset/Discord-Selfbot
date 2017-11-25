@@ -1,4 +1,3 @@
-    bot.log_conf = load_log_config()
     bot.key_users = bot.log_conf['keyusers']
 
     if os.path.isfile('settings/games.json'):
