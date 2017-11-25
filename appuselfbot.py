@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup
 from json import load, dump
 from datetime import timezone
 from cogs.utils.dataIO import dataIO
