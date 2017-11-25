@@ -1,4 +1,3 @@
-                                word_found = True
                                 break
 
                     for x in bot.log_conf['blacklisted_words']:
