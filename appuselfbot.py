@@ -1,4 +1,3 @@
-                                    await message.channel.send(content=None, embed=discord.Embed().set_image(url=response[1]))
                             except:
                                 await message.channel.send(response[1])
                         else:
