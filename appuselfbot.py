@@ -1,4 +1,3 @@
-                    if cd_active:
                         bot.log_conf['keyusers'][user] = bot.key_users[user] = user_p
                         user_found = message.author.name
 
