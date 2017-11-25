@@ -1,4 +1,3 @@
-	if errorlevel 1 goto force
 	echo Finished updating
 	echo Starting up...
 	goto run
