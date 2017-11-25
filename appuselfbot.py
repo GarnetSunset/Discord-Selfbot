@@ -1,4 +1,3 @@
-            # Cycles avatar if avatar cycling is enabled.
             if hasattr(bot, 'avatar_time') and hasattr(bot, 'avatar'):
                 if bot.avatar:
                     if bot.avatar_interval:
