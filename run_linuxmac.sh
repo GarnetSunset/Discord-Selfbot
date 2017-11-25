@@ -1,4 +1,3 @@
-		fi
 		new=$(git remote show origin)
 		if [[ "${new}" =~ "up" ]] || [[ "${new}" =~ "fast-forwardable" ]] ; then
 			echo "The bot is up to date."
