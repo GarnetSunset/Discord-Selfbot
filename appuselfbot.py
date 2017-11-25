@@ -1,4 +1,3 @@
-import requests
 import logging.handlers
 from bs4 import BeautifulSoup
 from json import load, dump
