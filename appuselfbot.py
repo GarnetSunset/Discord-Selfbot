@@ -1,4 +1,3 @@
-_force_admin = False
 
 try:
     token = os.environ['TOKEN']
