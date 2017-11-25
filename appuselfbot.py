@@ -1,5 +1,4 @@
 
-
 bot = commands.Bot(command_prefix=get_config_value('config', 'cmd_prefix'), description='''Selfbot by appu1232''', self_bot=True)
 
 if __name__ == "__main__":
