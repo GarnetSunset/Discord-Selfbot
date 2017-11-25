@@ -1,4 +1,3 @@
-import re
 import traceback
 import argparse
 import os
