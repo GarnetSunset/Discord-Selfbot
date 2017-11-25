@@ -1,4 +1,3 @@
-            user_found = False
             if bot.log_conf['user_logging'] == 'on':
                 if '{} {}'.format(str(message.author.id), str(message.guild.id)) in bot.log_conf['keyusers']:
                     user = '{} {}'.format(str(message.author.id), str(message.guild.id))
