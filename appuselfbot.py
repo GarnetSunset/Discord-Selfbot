@@ -1,4 +1,3 @@
-                            split_msg = ''
                         if user_found:
                             logged_msg = '``%s`` posted' % user_found
                         else:
