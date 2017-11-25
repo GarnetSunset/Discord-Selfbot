@@ -1,4 +1,3 @@
-async def on_ready():
     print('Logged in as')
     try:
         print(bot.user.name)
