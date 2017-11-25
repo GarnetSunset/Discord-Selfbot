@@ -1,4 +1,3 @@
-        if not config["cmd_prefix"]:
             print("Empty command prefixes are invalid.")
             
     config["customcmd_prefix"] = False
