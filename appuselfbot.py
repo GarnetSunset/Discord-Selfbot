@@ -1,4 +1,3 @@
-logger = set_log()
 
 samples = os.listdir('settings')
 for f in samples:
