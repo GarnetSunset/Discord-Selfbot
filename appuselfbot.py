@@ -1,4 +1,3 @@
-                                    await bot.user.edit(password=avi_config['password'], avatar=fp.read())
                             else:
                                 if next_avatar + 1 == len(all_avis):
                                     next_avatar = 0
