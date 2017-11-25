@@ -1,4 +1,3 @@
-        else:
             return False
 
     latest = update_bot(True)
