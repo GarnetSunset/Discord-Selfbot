@@ -1,4 +1,3 @@
-	CD /D "%root%"
 	goto :EOF
 :run
 	if exist tmp.txt del tmp.txt
