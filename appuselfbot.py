@@ -1,4 +1,3 @@
-        if hasattr(bot, 'icount'):
             bot.icount += 1
         try:
             if hasattr(bot, 'ignored_servers'):
