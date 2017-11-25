@@ -1,4 +1,3 @@
-            todo = {}
             json.dump(todo, t, indent=4)
 
     if not os.path.exists('avatars'):
