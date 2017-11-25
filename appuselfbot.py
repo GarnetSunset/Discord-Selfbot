@@ -1,4 +1,3 @@
-                for entry in list[2:]:
                     response = requests.get("http://appucogs.tk/cogs/{}".format(entry))
                     found_cog = response.json()
                     filename = found_cog["link"].rsplit("/", 1)[1].rsplit(".", 1)[0]
