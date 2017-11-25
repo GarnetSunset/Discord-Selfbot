@@ -1,4 +1,3 @@
-        print(bot.user.name)
     except:
         pass
     print('User id:' + str(bot.user.id))
