@@ -1,4 +1,3 @@
-from json import load, dump
 from datetime import timezone
 from cogs.utils.dataIO import dataIO
 from cogs.utils.allmsgs import custom, quickcmds
