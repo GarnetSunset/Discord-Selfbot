@@ -1,4 +1,3 @@
-                    msg = message.clean_content.replace('`', '')
 
                     context = []
                     total_context = 0
