@@ -1,4 +1,3 @@
-                                    await bot.user.edit(password=avi_config['password'], avatar=fp.read())
 
             # Sets status to default status when user goes offline (client status takes priority when user is online)
             if hasattr(bot, 'refresh_time'):
