@@ -1,4 +1,3 @@
-        if 'ascii_font' not in opt:
             opt['ascii_font'] = 'big'
         if 'timezone' not in opt:
             opt['timezone'] = ''
