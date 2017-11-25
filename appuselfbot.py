@@ -1,4 +1,3 @@
-async def reload(ctx, txt: str = None):
     """Reloads all modules."""
     await ctx.message.delete()
     if txt:
