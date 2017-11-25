@@ -1,4 +1,3 @@
-for f in samples:
     if f.endswith('sample') and f.rsplit('.', 1)[0] not in samples:
         with open('settings/%s' % f, 'r', encoding="utf8") as template:
             with open('settings/%s' % f.rsplit('.', 1)[0], 'w', encoding="utf8") as g:
