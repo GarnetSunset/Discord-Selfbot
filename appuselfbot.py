@@ -1,4 +1,3 @@
-        else:
             await request_webhook('/{}/{}'.format(channel, token), embeds=[keyword_content.to_dict()], content=None)
     else:
         if 'ping' in send_type:
