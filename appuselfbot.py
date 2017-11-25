@@ -1,4 +1,3 @@
-        if 'password' not in opt:
             opt['password'] = ''
         if avatars['password'] != '' and opt['password'] == '':
             opt['password'] = avatars['password']
