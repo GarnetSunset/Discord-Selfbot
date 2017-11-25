@@ -1,4 +1,3 @@
-_test_run = args.test_run
 _force_mac = args.force_mac
 _reset_cfg = args.reset_config
 _silent = args.silent
