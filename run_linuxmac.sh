@@ -1,4 +1,3 @@
-						min_updater
 						run_bot
 					else
 						echo "Shutting down"
