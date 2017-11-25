@@ -1,4 +1,3 @@
-            data = load(f)  # checks if the settings file is valid json file
     except IOError:
         wizard()
 
