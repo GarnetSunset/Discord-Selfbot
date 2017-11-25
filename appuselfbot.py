@@ -1,4 +1,3 @@
-            return (msg.content.lower().strip() == 'y' or msg.content.lower().strip() == 'n') and msg.author == bot.user
         else:
             return False
 
