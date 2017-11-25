@@ -1,4 +1,3 @@
-			fi
 		fi
 
 	elif hash python 2>/dev/null; then # TODO abstracify all this which mirrors above an also look up boolean operators in sh
