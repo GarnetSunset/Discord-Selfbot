@@ -1,4 +1,3 @@
-		fi
 		sleep 1
 	else
 		echo "You do not have git installed. Auto-update is not currently supported" # TODO HTTP update
