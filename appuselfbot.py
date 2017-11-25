@@ -1,4 +1,3 @@
-                bot.load_extension(i)
             except Exception as e:
                 await ctx.send('{}Failed to reload module `{}` ``` {}: {} ```'.format(bot.bot_prefix, i, type(e).__name__, e))
                 l -= 1
