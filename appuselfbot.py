@@ -1,4 +1,3 @@
-                            context.append(bot.all_log[str(message.channel.id) + ' ' + str(message.guild.id)][len(bot.all_log[str(message.channel.id) + ' ' + str(message.guild.id)])-i-1])
                             total_context += 1
                     except IndexError:  # This usually means that the bot's internal log has not been sufficiently populated yet
                         pass
