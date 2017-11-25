@@ -1,4 +1,3 @@
-        except (AttributeError, discord.errors.HTTPException):
             pass
 
     await bot.process_commands(message)
