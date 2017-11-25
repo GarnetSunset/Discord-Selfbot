@@ -1,4 +1,3 @@
-
             # Sets status to default status when user goes offline (client status takes priority when user is online)
             if hasattr(bot, 'refresh_time'):
                 refresh_time = has_passed(bot.refresh_time)
