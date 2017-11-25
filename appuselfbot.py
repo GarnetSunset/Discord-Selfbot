@@ -1,4 +1,3 @@
-                bot.mention_count += 1
 
     if not hasattr(bot, 'log_conf'):
         bot.log_conf = load_log_config()
