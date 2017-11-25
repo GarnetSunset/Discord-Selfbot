@@ -1,4 +1,3 @@
-
                     context = []
                     total_context = 0
                     try:
