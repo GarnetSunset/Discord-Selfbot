@@ -1,4 +1,3 @@
-        opt = json.load(fp)
         if 'username' not in opt:
             opt['username'] = ''
         if 'password' not in opt:
