@@ -1,4 +1,3 @@
-                    config = json.load(fp)
                     config["token"] = token
                     fp.seek(0)
                     fp.truncate()
