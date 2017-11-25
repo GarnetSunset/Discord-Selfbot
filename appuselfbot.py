@@ -1,4 +1,3 @@
-            if 'stream' not in games:
                 games['stream'] = 'no'
             if games['stream'] == 'yes':
                 bot.is_stream = True
