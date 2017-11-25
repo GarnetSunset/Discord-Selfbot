@@ -1,4 +1,3 @@
-                            with open('settings/games.json', encoding="utf8") as g:
                                 games = json.load(g)
 
                             bot.game = games['games']
