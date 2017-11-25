@@ -1,4 +1,3 @@
-                        elif ' [channel]' in word:
                             word, channel = word.split(' [channel]')
                             if str(message.channel.id) != channel:
                                 continue
