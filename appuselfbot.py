@@ -1,4 +1,3 @@
-    """Reloads all modules."""
     await ctx.message.delete()
     if txt:
         bot.unload_extension(txt)
