@@ -1,4 +1,3 @@
-    if latest:
         if not msg == 'show':
             if embed_perms(ctx.message):
                 try:
