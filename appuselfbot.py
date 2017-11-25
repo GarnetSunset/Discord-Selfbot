@@ -1,4 +1,3 @@
-        print('Cannot use setup Wizard becaue of silent mode')
         exit(0)
     config = {}
     print("Welcome to Appu's Discord Selfbot!\nThis setup wizard will guide you through the initial configuration required to get the bot working.\nThe choices you make in this wizard can be changed at any time by editing the settings/config.json file.\n")
