@@ -1,4 +1,3 @@
-samples = os.listdir('settings')
 for f in samples:
     if f.endswith('sample') and f.rsplit('.', 1)[0] not in samples:
         with open('settings/%s' % f, 'r', encoding="utf8") as template:
