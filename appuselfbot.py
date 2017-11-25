@@ -1,4 +1,3 @@
-            with open('quit.txt', 'w', encoding="utf8") as q:
                 q.write('update')
             print('Downloading update and restarting...')
             await ctx.send(bot.bot_prefix + 'Downloading update and restarting (check your console to see the progress)...')
