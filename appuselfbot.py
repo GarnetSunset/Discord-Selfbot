@@ -1,5 +1,4 @@
 
-
 # On all messages sent (for quick commands, custom commands, and logging messages)
 @bot.event
 async def on_message(message):
