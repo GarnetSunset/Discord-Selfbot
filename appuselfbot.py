@@ -1,4 +1,3 @@
-            try:
                 await ctx.send(content=None, embed=latest)
             except:
                 pass
