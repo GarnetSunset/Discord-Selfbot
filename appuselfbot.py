@@ -1,4 +1,3 @@
-                if message.author.id != bot.user.id and (not message.author.bot and not any(x in str(message.author.id) for x in bot.log_conf['blacklisted_users'])) and message.author not in bot.user.blocked:
                     for word in bot.log_conf['keywords']:
                         if ' [server]' in word:
                             word, guild = word.split(' [server]')
