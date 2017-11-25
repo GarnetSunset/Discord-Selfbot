@@ -1,4 +1,3 @@
-                        action="store_true",
                         help="Makes the bot quit before trying to log in")
     parser.add_argument("--force-mac",  # Allows for Testing of mac related code
                         action="store_true",
