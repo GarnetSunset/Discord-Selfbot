@@ -1,4 +1,3 @@
-    await ctx.message.delete()
     if txt:
         bot.unload_extension(txt)
         try:
