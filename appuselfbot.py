@@ -1,4 +1,3 @@
-        if str(ctx.command) not in bot.command_count:
             bot.command_count[str(ctx.command)] = 1
         else:
             bot.command_count[str(ctx.command)] += 1
