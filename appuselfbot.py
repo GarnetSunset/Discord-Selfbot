@@ -1,4 +1,3 @@
-    if not is_separate:
         temp = bot.log_conf['webhook_url'].split('/')
     else:
         temp = bot.log_conf['webhook_url2'].split('/')
