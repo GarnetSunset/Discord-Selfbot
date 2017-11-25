@@ -1,4 +1,3 @@
-        if 'timezone' not in opt:
             opt['timezone'] = ''
         if '24hours' not in opt:
             opt['24hours'] = 'true'
