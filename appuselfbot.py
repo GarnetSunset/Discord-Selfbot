@@ -1,4 +1,3 @@
-        with open('settings/moderation.json', 'w', encoding="utf8") as m:
             mod = {}
             json.dump(mod, m, indent=4)
     if not os.path.isfile('settings/todo.json'):
