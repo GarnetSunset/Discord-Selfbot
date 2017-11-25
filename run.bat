@@ -1,4 +1,3 @@
-goto run		
 
 :prompt
 	choice /t 10 /c yn /d n /m "There is an update for the bot. Download now?"
