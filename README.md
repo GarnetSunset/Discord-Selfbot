@@ -1,4 +1,3 @@
-
 ## Features
 
 - Google web and image search.
