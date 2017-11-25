@@ -1,4 +1,3 @@
-                        split_list = [msg[i:i + 1950] for i in range(0, len(msg), 1950)]
                         all_words = []
                         split_msg = ''
                         for i, blocks in enumerate(split_list):
