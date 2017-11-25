@@ -1,4 +1,3 @@
-    try:
         print(bot.user.name)
     except:
         pass
