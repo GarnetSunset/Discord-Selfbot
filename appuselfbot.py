@@ -1,4 +1,3 @@
-            else:
                 response = quickcmds(message.content.lower().strip())
                 if response:
                     await message.delete()
