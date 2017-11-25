@@ -1,4 +1,3 @@
-async def restart(ctx):
     """Restarts the bot."""
     def check(msg):
         if msg:
