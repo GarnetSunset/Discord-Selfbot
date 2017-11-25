@@ -1,4 +1,3 @@
-
 if __name__ == '__main__':
     err = sys.stderr
     sys.stderr = open(os.devnull, 'w')
