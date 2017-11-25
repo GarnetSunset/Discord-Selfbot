@@ -1,4 +1,3 @@
-    bot.notify = load_notify_config()
     bot.command_count = {}
     if not os.path.isfile('settings/ignored.json'):
         with open('settings/ignored.json', 'w', encoding="utf8") as fp:
