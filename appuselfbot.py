@@ -1,4 +1,3 @@
-            json.dump({'servers': []}, fp, indent=4)
     with open('settings/ignored.json', encoding="utf8") as fp:
         bot.ignored_servers = json.load(fp)
 
