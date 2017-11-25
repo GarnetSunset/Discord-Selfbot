@@ -1,4 +1,3 @@
-        shutdown = False
         
 if shutdown is True and not _force_admin:
     if os.name == 'nt':
