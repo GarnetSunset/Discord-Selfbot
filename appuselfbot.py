@@ -1,4 +1,3 @@
-            print("".join(trace))
 
 
 @bot.command(pass_context=True, aliases=['reboot'])
