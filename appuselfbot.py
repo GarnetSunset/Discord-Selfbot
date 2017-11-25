@@ -1,4 +1,3 @@
-        temp = os.listdir(os.sep.join([os.environ.get('SystemRoot', 'C:\\windows'), 'temp']))
     except:
         shutdown = False
     else:
