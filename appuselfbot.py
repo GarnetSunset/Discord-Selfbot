@@ -1,4 +1,3 @@
-                p = psutil.Process(int(pid))
                 p.kill()
             except:
                 pass
