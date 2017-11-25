@@ -1,4 +1,3 @@
-args = parse_cmd_arguments().parse_args()
 _test_run = args.test_run
 _force_mac = args.force_mac
 _reset_cfg = args.reset_config
