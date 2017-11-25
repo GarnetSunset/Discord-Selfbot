@@ -1,4 +1,3 @@
-                    return
         except AttributeError:  # Happens when it's a direct message.
             pass
         if hasattr(bot, 'self_log'):
