@@ -1,4 +1,3 @@
-    webhook_class = Webhook(bot)
     request_webhook = webhook_class.request_webhook
     if send_type.startswith('embed'):
         if 'ping' in send_type:
