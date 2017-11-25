@@ -1,4 +1,3 @@
-	goto run
 :git
 	TITLE Error!
 	echo Git not found, Download here: https://git-scm.com/downloads
