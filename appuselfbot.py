@@ -1,4 +1,3 @@
-                            else:
                                 await bot.change_presence(game=discord.Game(name=games['games'], type=bot.status_type), status=set_status(bot), afk=True)
 
             # Cycles avatar if avatar cycling is enabled.
