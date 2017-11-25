@@ -1,4 +1,3 @@
-    else:
         await ctx.send(bot.bot_prefix + 'The bot is up to date.')
 
 
