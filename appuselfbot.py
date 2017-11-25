@@ -1,4 +1,3 @@
-if bot.bot_prefix != '':
     bot.bot_prefix += ' '
 
 bot.cmd_prefix = get_config_value('config', 'cmd_prefix')
