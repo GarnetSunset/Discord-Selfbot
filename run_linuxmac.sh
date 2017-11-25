@@ -1,4 +1,3 @@
-	if hash git 2>/dev/null; then
 		if [ -d "settings" ]; then
 			cp -r settings settings_backup
 		fi
