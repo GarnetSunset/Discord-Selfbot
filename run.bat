@@ -1,4 +1,3 @@
-	if errorlevel 1 goto prompt
 	goto run
 :update
 	echo Starting update...
