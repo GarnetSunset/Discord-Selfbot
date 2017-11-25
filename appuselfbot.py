@@ -1,4 +1,3 @@
-                                                  status=set_status(bot), afk=True)
                     else:
                         await bot.change_presence(status=set_status(bot), afk=True)
 
