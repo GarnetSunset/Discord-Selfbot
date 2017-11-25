@@ -1,4 +1,3 @@
-        if _silent:
             await ctx.send(bot.bot_prefix + "An error occurred with the `{}` command.".format(ctx.command.name))
         else:
             await ctx.send(bot.bot_prefix + "An error occurred with the `{}` command. Check the console for details.".format(ctx.command.name))
