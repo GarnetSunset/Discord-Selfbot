@@ -1,4 +1,3 @@
-
     if os.path.isfile('settings/games.json'):
         with open('settings/games.json', 'r+', encoding="utf8") as g:
             games = json.load(g)
