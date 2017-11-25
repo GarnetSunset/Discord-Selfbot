@@ -1,4 +1,3 @@
-            text = "Hello! Seems like you ran into this folder and don't know what this is for. This folder is meant to hold various custom cogs you can download.\n\n" \
                    "Custom cogs are additional add-ons you can download for the bot which will usually come with additional features and commands.\n\n" \
                    "For more info on what they are, how they can be accessed and downloaded, and how you can make one too, go here: https://github.com/appu1232/Discord-Selfbot/wiki/Other-Add-ons"
             with open("custom_cogs/what_is_this.txt", 'w') as fp:
