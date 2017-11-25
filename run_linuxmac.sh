@@ -1,4 +1,3 @@
-		fi
 
 	else
 		echo "You do not appear to have Python 3 installed"
