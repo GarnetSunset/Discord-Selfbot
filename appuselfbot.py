@@ -1,4 +1,3 @@
-                    part = int(math.ceil(len(msg) / 1950))
                     if user_found:
                         title = '%s posted' % user_found
                     else:
