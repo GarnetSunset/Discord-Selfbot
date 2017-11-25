@@ -1,4 +1,3 @@
-        kill = open('quit.txt').read()
         os.remove('quit.txt')
         if kill == 'update':
             exit(15)
