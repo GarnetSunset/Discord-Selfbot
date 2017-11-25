@@ -1,4 +1,3 @@
-            await request_webhook('/{}/{}'.format(channel, token), content=keyword_content, embeds=None)
 
 # Set/cycle game
 async def game_and_avatar(bot):
