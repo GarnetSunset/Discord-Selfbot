@@ -1,4 +1,3 @@
-	echo[
 	echo Requirements satisfied.
 	echo Starting the bot (this may take a minute or two)...
 	python loopself.py
