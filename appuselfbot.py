@@ -1,4 +1,3 @@
-                    else:
                         await bot.change_presence(status=set_status(bot), afk=True)
 
             if hasattr(bot, 'gc_time'):
