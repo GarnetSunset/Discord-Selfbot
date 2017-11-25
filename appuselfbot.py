@@ -1,4 +1,3 @@
-        json.dump(opt, fp, indent=4)
 
     notif = load_notify_config()
     if notif['type'] == 'dm':
