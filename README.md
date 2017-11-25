@@ -1,4 +1,3 @@
-- Various other misc commands like spoiler tagging text (encrypts the text), creating strawpolls, embeding text, server/user info commands, and more.
 
 ## Acknowledgements
 
