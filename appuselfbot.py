@@ -1,4 +1,3 @@
-    if os.name == 'nt':
         print('It is not advised to run the bot as Admin.\nContinuing logging in...')
     else:
         print('It is not advised to run the bot with root privileges.\nContinuing logging in...')
