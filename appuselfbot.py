@@ -1,4 +1,3 @@
-        utils.append(utils.pop(utils.index('cogs.help')))
         for i in utils:
             bot.unload_extension(i)
             try:
