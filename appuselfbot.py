@@ -1,4 +1,3 @@
-# Set/cycle game
 async def game_and_avatar(bot):
     await bot.wait_until_ready()
     current_game = next_game = current_avatar = next_avatar = 0
