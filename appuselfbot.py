@@ -1,4 +1,3 @@
-        if bot.subpro:
             bot.subpro.kill()
         os._exit(0)
     else:
