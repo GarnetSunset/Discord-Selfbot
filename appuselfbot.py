@@ -1,4 +1,3 @@
-                    filename = found_cog["link"].rsplit("/", 1)[1].rsplit(".", 1)[0]
                     if os.path.isfile("cogs/" + filename + ".py"):
                         os.rename("cogs/" + filename + ".py", "custom_cogs/" + filename + ".py")
         except Exception as e:
