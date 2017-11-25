@@ -1,4 +1,3 @@
-        all_avis = os.listdir('avatars')
         all_avis.sort()
         avi = random.choice(all_avis)
         bot.avatar = avi
