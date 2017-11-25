@@ -1,4 +1,3 @@
-                            break
 
             user_found = False
             if bot.log_conf['user_logging'] == 'on':
