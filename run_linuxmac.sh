@@ -1,4 +1,3 @@
-
 min_updater() {
 	if hash git 2>/dev/null; then
 		if [ -d "settings" ]; then
