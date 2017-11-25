@@ -1,4 +1,3 @@
-else:
     _runs_in_loop = True
 
 bot.bot_prefix = get_config_value('config', 'bot_identifier')
