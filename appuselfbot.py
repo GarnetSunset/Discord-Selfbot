@@ -1,4 +1,3 @@
-_silent = args.silent
 _force_admin = False
 
 try:
