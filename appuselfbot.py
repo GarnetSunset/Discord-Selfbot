@@ -1,4 +1,3 @@
-                bot.load_extension("custom_cogs." + extension[:-3])
             except Exception as e:
                 print('Failed to load extension {}\n{}: {}'.format(extension, type(e).__name__, e))
 
