@@ -1,4 +1,3 @@
-    token = os.environ['TOKEN']
     heroku = True
 except KeyError:
     heroku = False
