@@ -1,4 +1,3 @@
-
     latest = update_bot(True)
     if latest:
         await ctx.send(bot.bot_prefix + 'There is an update available for the bot. Download and apply the update on restart? (y/n)')
