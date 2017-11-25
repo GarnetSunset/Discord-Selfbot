@@ -1,4 +1,3 @@
-                                    next_avatar = 0
                                 else:
                                     next_avatar += 1
                                 bot.avatar = all_avis[next_avatar]
