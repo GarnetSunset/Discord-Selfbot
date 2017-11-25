@@ -1,4 +1,3 @@
-            opt['password'] = avatars['password']
         bot.default_status = opt['default_status']
         fp.seek(0)
         fp.truncate()
