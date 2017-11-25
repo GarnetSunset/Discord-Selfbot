@@ -1,4 +1,3 @@
-                        while context:
                             temp = context.pop()
                             if temp[0].clean_content:
                                 em.add_field(name='%s' % temp[0].author.name, value=temp[0].clean_content, inline=False)
