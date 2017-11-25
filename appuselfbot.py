@@ -1,4 +1,3 @@
-    except:
         shutdown = False
     else:
         shutdown = True
