@@ -1,4 +1,3 @@
-    current_game = next_game = current_avatar = next_avatar = 0
 
     while True:
         # Cycles game if game cycling is enabled.
