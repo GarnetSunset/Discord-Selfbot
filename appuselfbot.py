@@ -1,4 +1,3 @@
-            bot.run(token, bot=False)
         except discord.errors.LoginFailure:
             if not heroku:
                 if _silent:
