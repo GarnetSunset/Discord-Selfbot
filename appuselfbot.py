@@ -1,4 +1,3 @@
-    if isinstance(error, commands.errors.CommandNotFound):
         pass
     elif isinstance(error, commands.errors.CheckFailure):
         await ctx.send(bot.bot_prefix + "You don't have permissions to use that command.")
