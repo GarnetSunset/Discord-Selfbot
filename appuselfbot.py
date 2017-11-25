@@ -1,4 +1,3 @@
-                            if avi_config['type'] == 'random':
                                 while next_avatar == current_avatar:
                                     next_avatar = random.randint(0, len(all_avis) - 1)
                                 current_avatar = next_avatar
