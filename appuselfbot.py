@@ -1,4 +1,3 @@
-        dump(config, f, sort_keys=True, indent=4)
 
 
 if _reset_cfg and not heroku:
