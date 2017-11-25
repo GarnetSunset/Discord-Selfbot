@@ -1,4 +1,3 @@
-					sleep 2
 				fi
 			else
 				echo ""
