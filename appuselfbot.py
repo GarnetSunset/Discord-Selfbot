@@ -1,4 +1,3 @@
-                if str(message.channel.id) != location[0]:
                     msg = message.clean_content.replace('`', '')
 
                     context = []
