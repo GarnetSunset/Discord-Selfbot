@@ -1,4 +1,3 @@
-
 @bot.command(pass_context=True)
 async def reload(ctx, txt: str = None):
     """Reloads all modules."""
