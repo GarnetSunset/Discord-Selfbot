@@ -1,4 +1,3 @@
-
     # Dealing with old versions updating
     if not os.path.isfile('settings/fc.json'):
         data = {"bnet_fc": "", "ds_fc": "", "psn_fc": "", "steam_fc": "", "switch_fc": "", "xbox_fc": ""}
