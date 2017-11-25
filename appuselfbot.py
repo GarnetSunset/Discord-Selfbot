@@ -1,4 +1,3 @@
-    if not os.path.isfile('settings/ignored.json'):
         with open('settings/ignored.json', 'w', encoding="utf8") as fp:
             json.dump({'servers': []}, fp, indent=4)
     with open('settings/ignored.json', encoding="utf8") as fp:
