@@ -1,4 +1,3 @@
-    print("Paste the contents of that entry below.")
     print("-------------------------------------------------------------")
     config["token"] = input("| ").strip().strip('"')
     
