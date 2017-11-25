@@ -1,4 +1,3 @@
-            if hasattr(bot, 'avatar_time') and hasattr(bot, 'avatar'):
                 if bot.avatar:
                     if bot.avatar_interval:
                         avi_check = avatar_time_check(bot.avatar_time, bot.avatar_interval)
