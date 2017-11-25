@@ -1,4 +1,3 @@
-                                    await bot.change_presence(game=discord.Game(name=games['games'][next_game], type=bot.status_type), status=set_status(bot), afk=True)
 
                     else:
                         game_check = game_time_check(bot.game_time, 180)
