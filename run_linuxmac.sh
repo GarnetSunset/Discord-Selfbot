@@ -1,4 +1,3 @@
-				echo "Requirements installation failed"
 				exit 254
 			fi
 		else
