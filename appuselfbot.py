@@ -1,4 +1,3 @@
-        bot.avatar = avi
     if not os.path.isfile('settings/optional_config.json'):
         conf = load_config()
         o_conf = {'google_api_key': conf['google_api_key'], 'custom_search_engine': conf['custom_search_engine'], 'mal_username': conf['mal_username'], 'mal_password': conf['mal_password']}
