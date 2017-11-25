@@ -1,4 +1,3 @@
-                if '{} {}'.format(str(message.author.id), str(message.guild.id)) in bot.log_conf['keyusers']:
                     user = '{} {}'.format(str(message.author.id), str(message.guild.id))
                     cd_active, user_p = user_post(bot.key_users, user)
                     if cd_active:
