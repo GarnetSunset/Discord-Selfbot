@@ -1,4 +1,3 @@
-	python -m pip install --user -r requirements.txt
 	if errorlevel 1 (
 	    echo Requirements installation failed. Perhaps some dependency is missing or access was denied? Possible solutions:
 	    echo - Run as administrator
