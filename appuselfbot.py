@@ -1,4 +1,3 @@
-        except Exception as e:
             print('Something went wrong: %s' % e)
 
         await asyncio.sleep(5)
