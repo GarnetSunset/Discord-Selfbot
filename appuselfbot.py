@@ -1,4 +1,3 @@
-    if bot.log_conf['keyword_logging'] == 'on' and isinstance(message.channel, discord.abc.GuildChannel):
 
         try:
             word_found = False
