@@ -1,4 +1,3 @@
-@bot.event
 async def on_command_error(ctx, error):
     if isinstance(error, commands.errors.CommandNotFound):
         pass
