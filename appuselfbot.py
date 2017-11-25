@@ -1,4 +1,3 @@
-    if os.listdir('avatars') and avatars['interval'] != '0':
         all_avis = os.listdir('avatars')
         all_avis.sort()
         avi = random.choice(all_avis)
