@@ -1,4 +1,3 @@
-			sleep 1
 		else
 			read -t 10 -n 1 -p "There is an update available. Download now? (y/n):" input
 			if [[ "$input" =~ "y" ]] ; then
