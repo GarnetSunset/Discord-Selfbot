@@ -1,4 +1,3 @@
-                        for b, i in enumerate(all_words):
                             if b == 0:
                                 if bot.notify['type'] == 'msg':
                                     await webhook(bot.bot_prefix + '%s in server: ``%s`` Context: Channel: <#%s> | %s\n\n```%s```' % (logged_msg, str(message.guild), str(message.channel.id), message.channel.name, i), 'message', is_separate)
