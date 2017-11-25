@@ -1,4 +1,3 @@
-                                else:
                                     await guild.get_channel(int(location[0])).send('```%s```' % i)
                     bot.keyword_log += 1
 
