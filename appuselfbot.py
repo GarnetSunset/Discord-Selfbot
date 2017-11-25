@@ -1,4 +1,3 @@
-                gc_t = gc_clear(bot.gc_time)
                 if gc_t:
                     gc.collect()
                     bot.gc_time = gc_t
