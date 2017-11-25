@@ -1,4 +1,3 @@
-    bot.loop.create_task(game_and_avatar(bot))
 
     while True:
         if heroku:
