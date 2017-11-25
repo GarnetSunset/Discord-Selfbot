@@ -1,4 +1,3 @@
-                    gc.collect()
                     bot.gc_time = gc_t
 
         except Exception as e:
