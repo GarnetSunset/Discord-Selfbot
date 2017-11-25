@@ -1,4 +1,3 @@
-
     logger = logging.getLogger("discord")
     logger.setLevel(logging.INFO)
     stdout_handler = logging.StreamHandler(sys.stdout)
