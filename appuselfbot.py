@@ -1,4 +1,3 @@
-                        if '[server]' in x:
                             bword, id = x.split('[server]')
                             if bword.strip().lower() in message.content.lower() and str(message.guild.id) == id:
                                 word_found = False
