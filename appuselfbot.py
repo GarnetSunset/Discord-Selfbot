@@ -1,4 +1,3 @@
-    request_webhook = webhook_class.request_webhook
     if send_type.startswith('embed'):
         if 'ping' in send_type:
             await request_webhook('/{}/{}'.format(channel, token), embeds=[keyword_content.to_dict()], content=bot.user.mention)
