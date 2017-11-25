@@ -1,4 +1,3 @@
-            re.write(str(ctx.message.channel.id))
         if not reply or reply.content.lower().strip() == 'n':
             print('Restarting...')
             await ctx.send(bot.bot_prefix + 'Restarting...')
