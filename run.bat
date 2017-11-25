@@ -1,4 +1,3 @@
-	if errorlevel 1 goto :update
 :forward
 	set findfile="tmp.txt"		
 	set forwardable="fast-forwardable"		
