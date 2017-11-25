@@ -1,4 +1,3 @@
-- Add custom commands/reactions. The commands get saved to ``commands.json`` which has some sample commands added to start with. Can be used as macros for other commands as well.
 - Custom embeds.
 - Todo list with notifications and a timer (repeatable) as well as ability to send a message to a channel when the timer goes off.
 - Smart MyAnimeList search of anime and manga/LNs using google custom search (and if that fails, using myanimelist's api for search)
