@@ -1,4 +1,3 @@
-
 ### [**Install guide + list of all commands.**](https://github.com/appu1232/Discord-Selfbot/wiki)
 
 Takes less than 2 minutes to set up. Has various commands and utilities including a keyword logger/notifier, adding custom commands/reactions, and much more.
