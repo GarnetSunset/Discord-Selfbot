@@ -1,4 +1,3 @@
-			echo "Upgrading pip"
 			if python3 -m pip install --user --upgrade pip; then
 				echo "Upgrading requirements"
 				if python3 -m pip install --user --upgrade -r requirements.txt; then
