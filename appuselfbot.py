@@ -1,4 +1,3 @@
-        bot.default_status = opt['default_status']
         fp.seek(0)
         fp.truncate()
         json.dump(opt, fp, indent=4)
