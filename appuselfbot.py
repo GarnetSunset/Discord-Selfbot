@@ -1,4 +1,3 @@
-            except:
                 pass
             os.remove('notifier.txt')
         bot.subpro = subprocess.Popen([sys.executable, 'cogs/utils/notify.py'])
