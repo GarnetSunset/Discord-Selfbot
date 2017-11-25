@@ -1,4 +1,3 @@
-    bot.key_users = bot.log_conf['keyusers']
 
     if os.path.isfile('settings/games.json'):
         with open('settings/games.json', 'r+', encoding="utf8") as g:
