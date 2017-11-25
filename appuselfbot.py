@@ -1,4 +1,3 @@
-                        elif '[channel]' in x:
                             bword, id = x.split('[channel]')
                             if bword.strip().lower() in message.content.lower() and str(message.channel.id) == id:
                                 word_found = False
