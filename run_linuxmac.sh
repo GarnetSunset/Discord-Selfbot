@@ -1,4 +1,3 @@
-				echo ""
 				;;
 			*)
 				echo "Wrong Python version!"
