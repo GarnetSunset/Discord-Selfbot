@@ -1,4 +1,3 @@
-        with open('settings/games.json', 'r+', encoding="utf8") as g:
             games = json.load(g)
             if type(games['games']) is list:
                 bot.game = games['games'][0]
