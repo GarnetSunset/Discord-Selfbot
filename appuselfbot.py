@@ -1,4 +1,3 @@
-                            bot.game_time = game_check
                             with open('settings/games.json', encoding="utf8") as g:
                                 games = json.load(g)
                             if games['type'] == 'random':
