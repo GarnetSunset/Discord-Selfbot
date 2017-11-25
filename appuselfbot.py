@@ -1,4 +1,3 @@
-        with open('settings/optional_config.json', 'w', encoding="utf8") as oc:
             json.dump(o_conf, oc, indent=4)
     with open('settings/optional_config.json', 'r+', encoding="utf8") as fp:
         opt = json.load(fp)
