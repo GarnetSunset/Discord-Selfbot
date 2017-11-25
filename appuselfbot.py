@@ -1,4 +1,3 @@
-                else:
                     location = bot.log_conf['log_location'].split()
                     is_separate = False
                 guild = bot.get_guild(int(location[1]))
