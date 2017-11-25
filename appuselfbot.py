@@ -1,4 +1,3 @@
-                        user_found = message.author.name
 
                 elif '{} all'.format(str(message.author.id)) in bot.log_conf['keyusers']:
                     user = '{} all'.format(str(message.author.id), str(message.guild.id))
