@@ -1,4 +1,3 @@
-		echo "Fetching origin"
 		git init >/dev/null 2>&1
 		git remote add origin https://github.com/appu1232/Discord-Selfbot.git >/dev/null 2>&1
 		git fetch origin master
