@@ -1,4 +1,3 @@
-						echo "Shutting down"
 					fi
 				else
 					echo "Requirements installation failed"
