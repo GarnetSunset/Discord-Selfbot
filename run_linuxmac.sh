@@ -1,4 +1,3 @@
-	if hash python3 2>/dev/null; then # TODO abstracify all this which mirrors above an also look up boolean operators in sh
 		if hash pip3 2>/dev/null; then
 			echo "Using global pip3 executable"
 			if pip3 install --user -r requirements.txt; then
