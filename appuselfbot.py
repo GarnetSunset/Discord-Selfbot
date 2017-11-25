@@ -1,4 +1,3 @@
-            except Exception as e:
                 print('Failed to load extension {}\n{}: {}'.format(extension, type(e).__name__, e))
     for extension in os.listdir("custom_cogs"):
         if extension.endswith('.py'):
