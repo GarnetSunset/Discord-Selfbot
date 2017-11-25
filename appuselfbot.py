@@ -1,4 +1,3 @@
-                            if found:
                                 word_found = True
                                 break
                         else:
