@@ -1,4 +1,3 @@
-	fi
 }
 
 min_updater() {
