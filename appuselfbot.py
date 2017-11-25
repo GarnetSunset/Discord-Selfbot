@@ -1,4 +1,3 @@
-                    await ctx.send(content=None, embed=latest)
                 except:
                     pass
             await ctx.send(bot.bot_prefix + 'There is an update available. Downloading update and restarting (check your console to see the progress)...')
