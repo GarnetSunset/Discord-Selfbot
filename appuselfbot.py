@@ -1,4 +1,3 @@
-        bot.subpro.kill()
     os._exit(0)
 
 
