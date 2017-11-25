@@ -1,4 +1,3 @@
-        if 'rich_embed' not in opt:
             opt['rich_embed'] = 'on'
         if 'default_status' not in opt:
             opt['default_status'] = 'idle'
