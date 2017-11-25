@@ -1,4 +1,3 @@
-## Buy me a cup of coffee
 
 This bot is open source and always will be, even if I don't get donations. That said, I know there are people out there that may still want to donate just to show their appreciation so this is for you guys. Thanks in advance!
 
