@@ -1,4 +1,3 @@
-    else:
         shutdown = True
 else:
     if os.geteuid() == 0:
