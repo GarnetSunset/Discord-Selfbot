@@ -1,4 +1,3 @@
-                                split_msg += b + '\n'
                             all_words.append(split_msg)
                             split_msg = ''
                         if user_found:
