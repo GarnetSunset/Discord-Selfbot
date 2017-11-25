@@ -1,4 +1,3 @@
-                            logged_msg = '``%s`` posted' % user_found
                         else:
                             logged_msg = '``%s`` mentioned' % word
                         for b, i in enumerate(all_words):
