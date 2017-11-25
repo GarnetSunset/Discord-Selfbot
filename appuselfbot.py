@@ -1,4 +1,3 @@
-
     if not os.path.exists('avatars'):
         os.makedirs('avatars')
     if not os.path.isfile('settings/avatars.json'):
