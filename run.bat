@@ -1,4 +1,3 @@
-	echo Finished updating
 	echo Starting up...
 	goto run
 :force
