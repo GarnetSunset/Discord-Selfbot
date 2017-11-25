@@ -1,4 +1,3 @@
-                            await guild.get_channel(int(location[0])).send(embed=em)
                     else:
                         split_list = [msg[i:i + 1950] for i in range(0, len(msg), 1950)]
                         all_words = []
