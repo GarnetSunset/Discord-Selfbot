@@ -1,4 +1,3 @@
-                            else:
                                 if next_game+1 == len(games['games']):
                                     next_game = 0
                                 else:
