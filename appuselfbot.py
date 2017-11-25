@@ -1,4 +1,3 @@
-            opt['24hours'] = 'true'
         if 'password' not in opt:
             opt['password'] = ''
         if avatars['password'] != '' and opt['password'] == '':
