@@ -1,4 +1,3 @@
-				exit
 				;;
 		esac
 		if hash pip 2>/dev/null; then
