@@ -1,4 +1,3 @@
-
 updater () {
 	echo "Starting auto-update"
 	if hash git 2>/dev/null; then
