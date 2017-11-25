@@ -1,4 +1,3 @@
-    # setup wizard
     if _silent:
         print('Cannot use setup Wizard becaue of silent mode')
         exit(0)
