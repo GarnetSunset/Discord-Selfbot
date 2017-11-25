@@ -1,4 +1,3 @@
-                fields = json.load(template)
                 json.dump(fields, g, sort_keys=True, indent=4)
 
 
