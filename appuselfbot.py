@@ -1,4 +1,3 @@
-    else:
         print('It is not advised to run the bot with root privileges.\nContinuing logging in...')
 
 
