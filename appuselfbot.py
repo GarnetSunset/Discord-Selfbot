@@ -1,4 +1,3 @@
-_reset_cfg = args.reset_config
 _silent = args.silent
 _force_admin = False
 
