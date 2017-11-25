@@ -1,4 +1,3 @@
-					python3 loopself.py
 					ret=$?
 					if [ $ret == "15" ]; then
 						min_updater
