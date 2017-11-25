@@ -1,4 +1,3 @@
-        avatars = json.load(g)
     bot.avatar_interval = avatars['interval']
     if os.listdir('avatars') and avatars['interval'] != '0':
         all_avis = os.listdir('avatars')
