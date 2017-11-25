@@ -1,4 +1,3 @@
-                    msg += 'User: %s | %s\n' % (message.author.name, message.created_at.replace(tzinfo=timezone.utc).astimezone(tz=None).__format__('%x @ %X')) + message.clean_content.replace('`', '')
                     part = int(math.ceil(len(msg) / 1950))
                     if user_found:
                         title = '%s posted' % user_found
