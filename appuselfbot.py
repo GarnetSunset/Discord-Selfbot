@@ -1,4 +1,3 @@
-                            else:
                                 if next_avatar + 1 == len(all_avis):
                                     next_avatar = 0
                                 else:
