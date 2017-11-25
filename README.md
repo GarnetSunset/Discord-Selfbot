@@ -1,4 +1,3 @@
-[<img src="https://canary.discordapp.com/api/guilds/299293492645986307/widget.png?style=banner2">](https://discord.gg/TBQE72k)
 
 ### [**Install guide + list of all commands.**](https://github.com/appu1232/Discord-Selfbot/wiki)
 
