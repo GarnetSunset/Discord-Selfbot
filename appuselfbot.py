@@ -1,4 +1,3 @@
-                        try:
                             em.set_thumbnail(url=message.author.avatar_url)
                         except:
                             pass
