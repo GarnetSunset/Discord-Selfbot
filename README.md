@@ -1,4 +1,3 @@
-- Todo list with notifications and a timer (repeatable) as well as ability to send a message to a channel when the timer goes off.
 - Smart MyAnimeList search of anime and manga/LNs using google custom search (and if that fails, using myanimelist's api for search)
 - Save/output the last n number of messages from a chat, including any messages that were deleted.
 - Get detailed information about a server and all of its members.
