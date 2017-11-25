@@ -1,4 +1,3 @@
-                            if bword.strip().lower() in message.content.lower() and str(message.channel.id) == id:
                                 word_found = False
                                 break
                         if x.lower() in message.content.lower():
