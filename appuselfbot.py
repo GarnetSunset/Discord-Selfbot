@@ -1,4 +1,3 @@
-                            logged_msg = '``%s`` mentioned' % word
                         for b, i in enumerate(all_words):
                             if b == 0:
                                 if bot.notify['type'] == 'msg':
