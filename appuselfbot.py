@@ -1,4 +1,3 @@
-            for a in data:
                 list.append(a.get("title"))
             for cog in list[2:]:
                 for entry in list[2:]:
