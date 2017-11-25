@@ -1,4 +1,3 @@
-    bot.self_log = bot.all_log = {}
     bot.imagedumps = []
     bot.is_stream = False
     bot.game = bot.game_interval = bot.avatar = bot.avatar_interval = bot.subpro = bot.keyword_found = None
