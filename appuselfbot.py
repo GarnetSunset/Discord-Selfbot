@@ -1,4 +1,3 @@
-            if hasattr(bot, 'refresh_time'):
                 refresh_time = has_passed(bot.refresh_time)
                 if refresh_time:
                     bot.refresh_time = refresh_time
