@@ -1,4 +1,3 @@
-    bot.icount = bot.message_count = bot.mention_count = bot.keyword_log = 0
     bot.self_log = bot.all_log = {}
     bot.imagedumps = []
     bot.is_stream = False
