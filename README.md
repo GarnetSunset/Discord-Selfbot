@@ -1,4 +1,3 @@
-- Set your game/stream to anything or set up multiple and cycle through them.
 - Cycle through avatars automatically.
 - Save image/gif/webm dumps (urls or attachments) in channels quickly to your computer (checks for duplicates as well).
 - Detailed image/gif source finder using sauce.nao
