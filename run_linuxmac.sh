@@ -1,2 +1,1 @@
-updater
 run_bot
