@@ -1,4 +1,3 @@
-    heroku = True
 except KeyError:
     heroku = False
 
