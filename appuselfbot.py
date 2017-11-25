@@ -1,4 +1,3 @@
-    print("Quitting: test run")
     exit(0)
 
 
