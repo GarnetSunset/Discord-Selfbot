@@ -1,4 +1,3 @@
-                bot.status_type = 0
             g.seek(0)
             g.truncate()
             json.dump(games, g, indent=4)
