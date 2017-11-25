@@ -1,4 +1,3 @@
-                                current_avatar = next_avatar
                                 bot.avatar = all_avis[next_avatar]
                                 with open('avatars/%s' % bot.avatar, 'rb') as fp:
                                     await bot.user.edit(password=avi_config['password'], avatar=fp.read())
