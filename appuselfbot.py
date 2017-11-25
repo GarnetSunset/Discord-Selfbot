@@ -1,4 +1,3 @@
-            await ctx.send(bot.bot_prefix + 'Downloading update and restarting (check your console to see the progress)...')
 
     else:
         print('Restarting...')
