@@ -1,4 +1,3 @@
-                                    next_game = 0
                                 else:
                                     next_game += 1
                                 bot.game = games['games'][next_game]
