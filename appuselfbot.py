@@ -1,4 +1,3 @@
-        bot.log_conf = load_log_config()
 
     # Keyword logging.
     if bot.log_conf['keyword_logging'] == 'on' and isinstance(message.channel, discord.abc.GuildChannel):
