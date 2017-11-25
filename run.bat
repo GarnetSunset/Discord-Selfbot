@@ -1,4 +1,3 @@
-	chcp 65001 >nul
 	set PYTHONIOENCODING=utf-8
 	python -m pip install --user --upgrade pip >nul
 	python -m pip install --user -r requirements.txt
