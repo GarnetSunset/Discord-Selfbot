@@ -1,4 +1,3 @@
-			sleep 2
 		else
 			echo "Pull failed, attempting to hard reset to origin master (settings are still saved)"
 			git fetch --all
