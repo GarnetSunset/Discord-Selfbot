@@ -1,2 +1,1 @@
-    params.extend(sys.argv[1:])
     subprocess.call(params)
