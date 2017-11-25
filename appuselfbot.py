@@ -1,4 +1,3 @@
-            data = soup.find_all(attrs={"class": "js-navigation-open"})
             list = []
             for a in data:
                 list.append(a.get("title"))
