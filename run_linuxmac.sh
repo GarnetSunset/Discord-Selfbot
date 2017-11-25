@@ -1,4 +1,3 @@
-	elif hash python 2>/dev/null; then # TODO abstracify all this which mirrors above an also look up boolean operators in sh
 		case "$(python --version 2>&1)" in
 			*" 3."*)
 				echo ""
