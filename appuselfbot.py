@@ -1,4 +1,3 @@
-                token = input("| ").strip('"')
                 with open("settings/config.json", "r+", encoding="utf8") as fp:
                     config = json.load(fp)
                     config["token"] = token
