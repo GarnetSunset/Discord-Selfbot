@@ -1,4 +1,3 @@
-        maxBytes=10**7, backupCount=5)
     errhandler.setFormatter(errformat)
 
     logger.addHandler(errhandler)
