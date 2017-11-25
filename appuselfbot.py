@@ -1,4 +1,3 @@
-                if refresh_time:
                     bot.refresh_time = refresh_time
                     if bot.game and bot.is_stream and '=' in bot.game:
                         g, url = bot.game.split('=')
