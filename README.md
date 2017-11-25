@@ -1,4 +1,3 @@
-- Quick commands so you can post pointless stuff as fast as possible like ``lenny``, ``shrug``, ``flip``, ``unflip``, and ``comeatmebro``
 - Meme commands like spacing text, converting text to regional indicator emojis, mass reacting to messages, and converting text to ascii art.
 - Python interpreter. Modeled off of RoboDanny's ?debug command. Does both exec() and eval(). Ability to save and load scripts.
 - Various other misc commands like spoiler tagging text (encrypts the text), creating strawpolls, embeding text, server/user info commands, and more.
