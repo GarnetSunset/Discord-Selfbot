@@ -1,5 +1,4 @@
 
-
 # Webhook for keyword notifications
 async def webhook(keyword_content, send_type, is_separate):
     if not is_separate:
