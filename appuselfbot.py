@@ -1,4 +1,3 @@
-        try:
             word_found = False
             if (bot.log_conf['allservers'] == 'True' or str(message.guild.id) in bot.log_conf['servers']) and (str(message.guild.id) not in bot.log_conf['blacklisted_servers'] and str(message.channel.id) not in bot.log_conf['blacklisted_channels']):
                 add_alllog(str(message.channel.id), str(message.guild.id), message)
