@@ -1,4 +1,3 @@
-            await request_webhook('/{}/{}'.format(channel, token), content=keyword_content + '\n' + bot.user.mention, embeds=None)
         else:
             await request_webhook('/{}/{}'.format(channel, token), content=keyword_content, embeds=None)
 
