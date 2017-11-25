@@ -1,4 +1,3 @@
-    open('quit.txt', 'a', encoding="utf8").close()
     await ctx.send(bot.bot_prefix + 'Bot shut down.')
     os._exit(0)
 
