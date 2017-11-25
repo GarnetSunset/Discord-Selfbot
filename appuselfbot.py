@@ -1,4 +1,3 @@
-        dataIO.save_json("settings/replacements.json", data)
     if not os.path.isfile('settings/moderation.json'):
         with open('settings/moderation.json', 'w', encoding="utf8") as m:
             mod = {}
