@@ -1,4 +1,3 @@
-import glob
 import gc
 import psutil
 import sys
