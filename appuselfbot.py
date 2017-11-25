@@ -1,4 +1,3 @@
-                                    await guild.get_channel(int(location[0])).send('```%s```' % i)
                     bot.keyword_log += 1
 
         # Bad habit but this is for skipping errors when dealing with Direct messages, blocked users, etc. Better to just ignore.
