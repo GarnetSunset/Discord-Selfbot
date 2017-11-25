@@ -1,4 +1,3 @@
-    print('User id:' + str(bot.user.id))
     print('------')
     bot.uptime = datetime.datetime.now()
     bot.icount = bot.message_count = bot.mention_count = bot.keyword_log = 0
