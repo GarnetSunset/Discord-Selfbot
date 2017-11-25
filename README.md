@@ -1,4 +1,3 @@
-- Get detailed information about a server and all of its members.
 - Purge the last n messages you sent in a channel.
 - Simple calculator.
 - Quick commands so you can post pointless stuff as fast as possible like ``lenny``, ``shrug``, ``flip``, ``unflip``, and ``comeatmebro``
