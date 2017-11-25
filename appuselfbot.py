@@ -1,4 +1,3 @@
-    with open('settings/optional_config.json', 'r+', encoding="utf8") as fp:
         opt = json.load(fp)
         if 'embed_color' not in opt:
             opt['embed_color'] = ''
