@@ -1,4 +1,3 @@
-            print("Ignoring exception in command {}".format(ctx.command.name))
             trace = traceback.format_exception(type(error), error, error.__traceback__)
             print("".join(trace))
 
