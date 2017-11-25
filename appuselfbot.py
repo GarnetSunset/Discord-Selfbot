@@ -1,4 +1,3 @@
-                            bot.avatar_time = avi_check
                             with open('settings/avatars.json', encoding="utf8") as g:
                                 avi_config = json.load(g)
                             all_avis = os.listdir('avatars')
