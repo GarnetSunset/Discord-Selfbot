@@ -1,4 +1,3 @@
-        if 'default_status' not in opt:
             opt['default_status'] = 'idle'
         if 'ascii_font' not in opt:
             opt['ascii_font'] = 'big'
