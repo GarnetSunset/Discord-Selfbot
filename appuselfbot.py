@@ -1,5 +1,4 @@
 
-
 def remove_alllog(channel, guild):
     del bot.all_log[channel + ' ' + guild]
 
