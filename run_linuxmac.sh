@@ -1,4 +1,3 @@
-		if [[ "${new}" =~ "up" ]] || [[ "${new}" =~ "fast-forwardable" ]] ; then
 			echo "The bot is up to date."
 			sleep 1
 		else
