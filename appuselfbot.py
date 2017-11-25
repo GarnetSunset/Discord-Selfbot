@@ -1,4 +1,3 @@
-
 def add_alllog(channel, guild, message):
     if not hasattr(bot, 'all_log'):
         bot.all_log = {}
