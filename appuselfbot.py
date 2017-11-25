@@ -1,4 +1,3 @@
-                                word_found = False
                                 break
                         elif '[channel]' in x:
                             bword, id = x.split('[channel]')
