@@ -1,4 +1,3 @@
-    if os.path.isfile('quit.txt'):
         kill = open('quit.txt').read()
         os.remove('quit.txt')
         if kill == 'update':
