@@ -1,4 +1,3 @@
-                    if bot.game_interval:
                         game_check = game_time_check(bot.game_time, bot.game_interval)
                         if game_check:
                             bot.game_time = game_check
