@@ -1,4 +1,3 @@
-                    is_separate = False
                 guild = bot.get_guild(int(location[1]))
                 if str(message.channel.id) != location[0]:
                     msg = message.clean_content.replace('`', '')
