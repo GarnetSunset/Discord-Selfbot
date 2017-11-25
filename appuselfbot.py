@@ -1,4 +1,3 @@
-    with open('settings/avatars.json', 'r', encoding="utf8") as g:
         avatars = json.load(g)
     bot.avatar_interval = avatars['interval']
     if os.listdir('avatars') and avatars['interval'] != '0':
