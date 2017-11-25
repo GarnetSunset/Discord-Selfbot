@@ -1,4 +1,3 @@
-                            else:
                                 if bot.notify['type'] == 'msg':
                                     await webhook('```%s```' % i, 'message', is_separate)
                                 elif bot.notify['type'] == 'ping':
