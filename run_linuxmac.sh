@@ -1,4 +1,3 @@
-				else
 					echo "Shutting down"
 				fi
 
