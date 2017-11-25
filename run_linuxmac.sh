@@ -1,4 +1,3 @@
-		fi
 		git fetch origin master
 		echo ""
 		echo "Installing update"
