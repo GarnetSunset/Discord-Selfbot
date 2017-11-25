@@ -1,4 +1,3 @@
-
     notified = message.mentions
     if notified:
         for i in notified:
