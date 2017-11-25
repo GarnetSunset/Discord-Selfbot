@@ -1,4 +1,3 @@
-                            if str(message.channel.id) != channel:
                                 continue
                         if word.startswith('[isolated]'):
                             word = word[10:].lower()
