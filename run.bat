@@ -1,4 +1,3 @@
-if errorlevel 1 goto forward		
 goto run		
 
 :prompt
