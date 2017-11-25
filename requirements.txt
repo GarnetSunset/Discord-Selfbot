@@ -1,3 +1,2 @@
-tokage==0.1.6.5
 pytz==2017.2
 PyGithub==1.34
