@@ -1,4 +1,3 @@
-    def check(msg):
         if msg:
             return (msg.content.lower().strip() == 'y' or msg.content.lower().strip() == 'n') and msg.author == bot.user
         else:
