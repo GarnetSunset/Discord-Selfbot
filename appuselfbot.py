@@ -1,4 +1,3 @@
-                    for word in bot.log_conf['keywords']:
                         if ' [server]' in word:
                             word, guild = word.split(' [server]')
                             if str(message.guild.id) != guild:
