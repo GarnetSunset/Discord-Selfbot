@@ -1,4 +1,3 @@
-        os.remove('quit.txt')
         if kill == 'update':
             exit(15)
         break
