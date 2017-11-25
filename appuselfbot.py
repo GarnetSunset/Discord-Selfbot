@@ -1,4 +1,3 @@
-
     if not os.path.exists('settings/logs'):
         os.makedirs('settings/logs')
     errhandler = logging.handlers.RotatingFileHandler(
