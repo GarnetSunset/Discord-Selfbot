@@ -1,4 +1,3 @@
-                            await webhook(em, 'embed ping', is_separate)
                         else:
                             await guild.get_channel(int(location[0])).send(embed=em)
                     else:
