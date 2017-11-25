@@ -1,4 +1,3 @@
-        help = await formatter.format_help_for(ctx, ctx.command)
         await ctx.send(bot.bot_prefix + "You are missing required arguments.\n" + help[0])
     else:
         if _silent:
