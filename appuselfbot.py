@@ -1,4 +1,3 @@
-                                if get_config_value('optional_config', 'customcmd_color'):
                                     color = int('0x' + get_config_value('optional_config', 'customcmd_color'), 16)
                                     await message.channel.send(content=None, embed=discord.Embed(colour=color).set_image(url=response[1]))
                                 else:
