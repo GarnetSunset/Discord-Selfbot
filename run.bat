@@ -1,4 +1,3 @@
-	echo Starting up...
 	goto run
 :git
 	TITLE Error!
