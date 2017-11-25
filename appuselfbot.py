@@ -1,4 +1,3 @@
-                            all_avis = os.listdir('avatars')
                             all_avis.sort()
                             if avi_config['type'] == 'random':
                                 while next_avatar == current_avatar:
