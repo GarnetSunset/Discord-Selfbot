@@ -1,4 +1,3 @@
-bot.cmd_prefix = get_config_value('config', 'cmd_prefix')
 bot.customcmd_prefix = get_config_value('config', 'customcmd_prefix')
 
 
