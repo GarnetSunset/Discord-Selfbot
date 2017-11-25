@@ -1,4 +1,3 @@
-                        title = '%s posted' % user_found
                     else:
                         title = '%s mentioned: %s' % (message.author.name, word)
                     if part == 1:
