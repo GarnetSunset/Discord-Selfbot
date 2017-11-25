@@ -1,4 +1,3 @@
-	type cogs\utils\credit.txt
 	echo[
 	echo[
 	echo Requirements satisfied.
