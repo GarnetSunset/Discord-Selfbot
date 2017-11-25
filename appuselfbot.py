@@ -1,4 +1,3 @@
-            if games['stream'] == 'yes':
                 bot.is_stream = True
             try:
                 bot.status_type = games['status']
