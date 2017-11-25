@@ -1,4 +1,3 @@
-	git pull origin master
 	if errorlevel 1 goto force
 	echo Finished updating
 	echo Starting up...
