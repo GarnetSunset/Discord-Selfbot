@@ -1,4 +1,3 @@
-                await ctx.send('``` {}: {} ```'.format(type(e).__name__, e))
                 return
     else:
         utils = []
