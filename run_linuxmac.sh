@@ -1,4 +1,3 @@
-			fi
 		else
 			echo "Using pip as a python3 module"
 			echo "Upgrading pip"
