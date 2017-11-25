@@ -1,4 +1,3 @@
-	cls
 	type cogs\utils\credit.txt
 	echo[
 	echo[
