@@ -1,4 +1,3 @@
-@bot.event
 async def on_message(message):
 
     if hasattr(bot, 'message_count'):
