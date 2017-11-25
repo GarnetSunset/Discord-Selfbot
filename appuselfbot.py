@@ -1,4 +1,3 @@
-
 if _reset_cfg and not heroku:
     wizard()
 else:
