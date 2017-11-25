@@ -1,4 +1,3 @@
-	git reset --hard origin/master
 )
 git remote show origin > tmp.txt
 set findfile="tmp.txt"
