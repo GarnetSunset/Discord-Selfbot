@@ -1,4 +1,3 @@
-        with open('restart.txt', 'r', encoding="utf8") as re:
             channel = bot.get_channel(int(re.readline()))
             print('Bot has restarted.')
             await channel.send(bot.bot_prefix + 'Bot has restarted.')
