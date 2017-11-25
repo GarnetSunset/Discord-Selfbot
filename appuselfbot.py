@@ -1,4 +1,3 @@
-        bot.subpro = subprocess.Popen([sys.executable, 'cogs/utils/notify.py'])
         with open('notifier.txt', 'w', encoding="utf8") as fp:
             fp.write(str(bot.subpro.pid))
 
