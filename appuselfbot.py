@@ -1,4 +1,3 @@
-        # Cycles game if game cycling is enabled.
         try:
             if hasattr(bot, 'game_time') and hasattr(bot, 'game'):
                 if bot.game:
