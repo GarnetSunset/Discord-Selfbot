@@ -1,4 +1,3 @@
-                    await message.delete()
                     await message.channel.send(response)
 
     notified = message.mentions
