@@ -1,4 +1,3 @@
-# Discord Selfbot
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FFDATZ8NFFV6Y) [<img src="https://img.shields.io/github/license/appu1232/Discord-Selfbot.svg?style=flat-square">](https://github.com/appu1232/Discord-Selfbot/blob/master/LICENSE) [![Build Status](https://travis-ci.org/appu1232/Discord-Selfbot.svg?branch=master)](https://travis-ci.org/appu1232/Discord-Selfbot)
 
