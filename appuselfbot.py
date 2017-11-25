@@ -1,4 +1,3 @@
-    parser = argparse.ArgumentParser(description="Discord-Selfbot")
     parser.add_argument("-test", "--test-run",  # test run flag for Travis
                         action="store_true",
                         help="Makes the bot quit before trying to log in")
