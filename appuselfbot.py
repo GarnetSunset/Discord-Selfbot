@@ -1,4 +1,3 @@
-    if notif['type'] == 'dm':
         if os.path.exists('notifier.txt'):
             pid = open('notifier.txt', 'r', encoding="utf8").read()
             try:
