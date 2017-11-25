@@ -1,4 +1,3 @@
-            
     config["customcmd_prefix"] = False
     while not config["customcmd_prefix"]:
         print("\nEnter the command prefix you want to use for custom commands (commands that you add to the bot yourself with custom replies). Using the same prefix as the main command prefix is allowed, but not recommended.")
