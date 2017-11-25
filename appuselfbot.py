@@ -1,4 +1,3 @@
-    if hasattr(bot, 'message_count'):
         bot.message_count += 1
 
     # If the message was sent by me
