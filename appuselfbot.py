@@ -1,4 +1,3 @@
-        await ctx.send(bot.bot_prefix + "You are missing required arguments.\n" + help[0])
     else:
         if _silent:
             await ctx.send(bot.bot_prefix + "An error occurred with the `{}` command.".format(ctx.command.name))
