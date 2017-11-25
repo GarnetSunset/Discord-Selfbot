@@ -1,4 +1,3 @@
-                        help="Supresses all errors")
     return parser
 
 
