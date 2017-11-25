@@ -1,4 +1,3 @@
-        with open('restart.txt', 'w', encoding="utf8") as re:
             re.write(str(ctx.message.channel.id))
         if not reply or reply.content.lower().strip() == 'n':
             print('Restarting...')
