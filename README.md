@@ -1,4 +1,3 @@
-- Used a lot of [Danny's](https://github.com/Rapptz) code for certain parts, especially parsing Google cards and the debugger.
 - Used [eye-sigil's](https://github.com/eye-sigil) code for the >repl command.
 - Thanks to [IgneelDxD](https://github.com/IgneelDxD) for a lot of suggestions and fixes.
 - Thanks to [Bluscream](https://github.com/Bluscream) for a lot of helpful pull requests and custom cogs.
