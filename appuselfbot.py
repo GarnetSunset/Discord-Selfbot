@@ -1,4 +1,3 @@
-    if notified:
         for i in notified:
             if i.id == bot.user.id:
                 bot.mention_count += 1
