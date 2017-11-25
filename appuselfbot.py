@@ -1,4 +1,3 @@
-    if not os.path.exists("custom_cogs"):
         try:
             os.makedirs("custom_cogs")
             text = "Hello! Seems like you ran into this folder and don't know what this is for. This folder is meant to hold various custom cogs you can download.\n\n" \
