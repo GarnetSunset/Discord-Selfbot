@@ -1,4 +1,3 @@
-            if not heroku:
                 if _silent:
                     print('Cannot use setup Wizard becaue of silent mode')
                     exit(0)
