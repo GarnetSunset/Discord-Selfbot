@@ -1,4 +1,3 @@
-                    bot.refresh_time = refresh_time
                     if bot.game and bot.is_stream and '=' in bot.game:
                         g, url = bot.game.split('=')
                         await bot.change_presence(game=discord.Game(name=g, type=1, url=url), status=set_status(bot), afk=True)
