@@ -1,4 +1,3 @@
-    while True:
         if heroku:
             token = os.environ['TOKEN']
         else:
