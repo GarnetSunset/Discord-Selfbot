@@ -1,4 +1,3 @@
-            utils.append(i)
         l = len(utils)
         utils.append(utils.pop(utils.index('cogs.help')))
         for i in utils:
