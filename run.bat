@@ -1,4 +1,3 @@
-	echo Python not added to PATH or not installed. Download Python 3.5.2 or above and make sure you add to PATH: https://i.imgur.com/KXgMcOK.png
 	echo Press any key to exit.
 	pause >nul
 	CD /D "%root%"
