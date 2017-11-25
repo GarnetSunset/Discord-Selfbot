@@ -1,4 +1,3 @@
-
 bot.bot_prefix = get_config_value('config', 'bot_identifier')
 if bot.bot_prefix != '':
     bot.bot_prefix += ' '
