@@ -1,4 +1,3 @@
-
                     else:
                         game_check = game_time_check(bot.game_time, 180)
                         if game_check:
