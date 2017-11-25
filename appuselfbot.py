@@ -1,4 +1,3 @@
-            opt['password'] = ''
         if 'reponame' not in opt:
             opt['reponame'] = ''
         fp.seek(0)
