@@ -1,4 +1,3 @@
-                                    g, url = games['games'][next_game].split('=')
                                     await bot.change_presence(game=discord.Game(name=g, type=1,
                                                                                 url=url),
                                                               status=set_status(bot), afk=True)
