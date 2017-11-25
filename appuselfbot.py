@@ -1,4 +1,3 @@
-@bot.after_invoke
 async def after_any_command(ctx):
     if not ctx.command_failed:
         if str(ctx.command) not in bot.command_count:
