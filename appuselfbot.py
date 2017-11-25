@@ -1,4 +1,3 @@
-                    bot.gc_time = gc_t
 
         except Exception as e:
             print('Something went wrong: %s' % e)
