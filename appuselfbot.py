@@ -1,4 +1,3 @@
-        samples = os.listdir('settings')  # generating the config files from sample while building
         for f in samples:
             if f.endswith('sample') and f[:-7] not in samples:
                 with open('settings/%s' % f, 'r', encoding="utf8") as template:
