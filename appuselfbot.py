@@ -1,4 +1,3 @@
-    try:
         with open('settings/config.json', encoding='utf-8', mode="r") as f:
             data = load(f)  # checks if the settings file is valid json file
     except IOError:
