@@ -1,4 +1,3 @@
-                    await message.channel.send(response)
 
     notified = message.mentions
     if notified:
