@@ -1,4 +1,3 @@
-        with open('notifier.txt', 'w', encoding="utf8") as fp:
             fp.write(str(bot.subpro.pid))
 
 
