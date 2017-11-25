@@ -1,4 +1,3 @@
-        if avatars['password'] != '' and opt['password'] == '':
             opt['password'] = avatars['password']
         bot.default_status = opt['default_status']
         fp.seek(0)
