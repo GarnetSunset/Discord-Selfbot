@@ -1,4 +1,3 @@
-
 if __name__ == "__main__":
     _runs_in_loop = False
 else:
