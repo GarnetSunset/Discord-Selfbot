@@ -1,4 +1,3 @@
-    bot.game_time = bot.avatar_time = bot.gc_time = bot.refresh_time = time.time()
     bot.notify = load_notify_config()
     bot.command_count = {}
     if not os.path.isfile('settings/ignored.json'):
