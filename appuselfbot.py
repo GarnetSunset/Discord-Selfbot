@@ -1,4 +1,3 @@
-    config["token"] = input("| ").strip().strip('"')
     
     config["cmd_prefix"] = False
     while not config["cmd_prefix"]:
