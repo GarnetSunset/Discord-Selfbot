@@ -1,4 +1,3 @@
-    except IOError:
         wizard()
 
 shutdown = False
