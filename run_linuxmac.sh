@@ -1,4 +1,3 @@
-fi
 
 updater () {
 	echo "Starting auto-update"
