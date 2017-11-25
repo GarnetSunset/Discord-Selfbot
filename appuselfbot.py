@@ -1,5 +1,4 @@
 
-
 @bot.command(pass_context=True, aliases=['upgrade'])
 async def update(ctx, msg: str = None):
     """Update the bot if there is an update available."""
