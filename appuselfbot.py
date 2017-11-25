@@ -1,4 +1,3 @@
-            opt['customcmd_color'] = '27007A'
         if 'rich_embed' not in opt:
             opt['rich_embed'] = 'on'
         if 'default_status' not in opt:
