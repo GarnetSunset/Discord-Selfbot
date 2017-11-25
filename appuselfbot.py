@@ -1,4 +1,3 @@
-    print("-------------------------------------------------------------")
     config["token"] = input("| ").strip().strip('"')
     
     config["cmd_prefix"] = False
