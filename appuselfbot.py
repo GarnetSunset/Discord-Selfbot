@@ -1,4 +1,3 @@
-    errhandler.setFormatter(errformat)
 
     logger.addHandler(errhandler)
 
