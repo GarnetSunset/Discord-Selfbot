@@ -1,4 +1,3 @@
-    wizard()
 else:
     try:
         with open('settings/config.json', encoding='utf-8', mode="r") as f:
