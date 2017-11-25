@@ -1,4 +1,3 @@
-	    echo - Google the error
 	    echo - Visit the Discord server for help
 	    echo Press any key to exit.
 	    set /p input=
