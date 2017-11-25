@@ -1,4 +1,3 @@
-    config["bot_identifier"] = input("| ").strip()
     
     input("\nThis concludes the setup wizard. For further setup options (ex. setting up google image search), refer to the Discord Selfbot wiki.\n\nYour settings:\nInvoke commands with: {cmd}  Ex: {cmd}ping\nInvoke custom commands with: {custom}  Ex: {custom}get good\nYou may restart this wizard at any time by deleting config.json in the settings folder.\n\nPress Enter to start the bot....\n".format(cmd=config["cmd_prefix"], custom=config["customcmd_prefix"]))
   
