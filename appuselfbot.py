@@ -1,4 +1,3 @@
-            print("Empty command prefixes are invalid.")
     
     print("\nEnter something that will precede every response from the bot. This is to distinguish bot responses from normal user chatter i.e. Entering :robot: will make the bot respond with the robot emoji at the front of every message it sends.")
     print("-------------------------------------------------------------")
