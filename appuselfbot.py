@@ -1,4 +1,3 @@
-                        if response[0] == 'embed' and embed_perms(message):
                             try:
                                 if get_config_value('optional_config', 'customcmd_color'):
                                     color = int('0x' + get_config_value('optional_config', 'customcmd_color'), 16)
