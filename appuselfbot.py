@@ -1,4 +1,3 @@
-                response = custom(message.content.lower().strip())
                 if response:
                     await message.delete()
                     if get_config_value('optional_config', 'rich_embed') == 'on':
