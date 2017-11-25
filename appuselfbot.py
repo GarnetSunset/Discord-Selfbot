@@ -1,4 +1,3 @@
-                        help="Reruns the setup")
     parser.add_argument("-s", "--silent",  # Allows for Testing of mac related code
                         action="store_true",
                         help="Supresses all errors")
