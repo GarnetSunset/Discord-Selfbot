@@ -1,4 +1,3 @@
-    os._exit(0)
 
 
 @bot.command(pass_context=True)
