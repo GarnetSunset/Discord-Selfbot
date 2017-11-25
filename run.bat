@@ -1,4 +1,3 @@
-	echo Backing up your settings...
 	echo d | xcopy settings settings_backup /E >nul
 	echo Latest update:
 	git --no-pager log --pretty=oneline -n1 origin/master ^master
