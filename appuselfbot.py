@@ -1,4 +1,3 @@
-shutdown = False
 if os.name == 'nt':
     try:
         # only windows users with admin privileges can read the C:\windows\temp
