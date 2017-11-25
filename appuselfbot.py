@@ -1,4 +1,3 @@
-                        action="store_true",
                         help="Forces to run the Mac checks")
     parser.add_argument("--reset-config",  # Allows for Testing of mac related code
                         action="store_true",
