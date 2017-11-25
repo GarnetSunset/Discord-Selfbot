@@ -1,4 +1,3 @@
-			cp -r settings settings_backup
 		fi
 		new=$(git remote show origin)
 		if [[ "${new}" =~ "up" ]] || [[ "${new}" =~ "fast-forwardable" ]] ; then
