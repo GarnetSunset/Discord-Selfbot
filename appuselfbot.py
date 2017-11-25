@@ -1,4 +1,3 @@
-        fp.truncate()
         json.dump(opt, fp, indent=4)
 
     if not os.path.isfile('settings/github.json'):
