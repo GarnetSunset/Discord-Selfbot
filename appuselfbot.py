@@ -1,4 +1,3 @@
-                l -= 1
         await ctx.send(bot.bot_prefix + 'Reloaded {} of {} modules.'.format(l, len(utils)))
 
 
