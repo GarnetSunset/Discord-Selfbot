@@ -1,4 +1,3 @@
-                list.append(a.get("title"))
             for cog in list[2:]:
                 for entry in list[2:]:
                     response = requests.get("http://appucogs.tk/cogs/{}".format(entry))
