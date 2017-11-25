@@ -1,4 +1,3 @@
-	goto :EOF
 :run
 	if exist tmp.txt del tmp.txt
 	FOR /f %%p in ('where python') do SET PYTHONPATH=%%p
