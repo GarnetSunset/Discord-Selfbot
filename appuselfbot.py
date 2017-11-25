@@ -1,4 +1,3 @@
-            else:
                 bot.game = games['games']
             if 'stream' not in games:
                 games['stream'] = 'no'
