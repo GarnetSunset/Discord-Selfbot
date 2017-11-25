@@ -1,4 +1,3 @@
-from discord.ext import commands
 
 
 def parse_cmd_arguments():  # allows for arguments
