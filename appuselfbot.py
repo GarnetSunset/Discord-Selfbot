@@ -1,4 +1,3 @@
-            trace = traceback.format_exception(type(error), error, error.__traceback__)
             print("".join(trace))
 
 
