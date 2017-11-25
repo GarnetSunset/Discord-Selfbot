@@ -1,4 +1,3 @@
-    if message.author.id == bot.user.id:
         if hasattr(bot, 'icount'):
             bot.icount += 1
         try:
