@@ -1,4 +1,3 @@
-                            if str(message.guild.id) != guild:
                                 continue
                         elif ' [channel]' in word:
                             word, channel = word.split(' [channel]')
