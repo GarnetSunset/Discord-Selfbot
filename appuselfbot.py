@@ -1,4 +1,3 @@
-    else:
         bot.all_log[channel + ' ' + guild] = collections.deque(maxlen=int(get_config_value('log', 'log_size', 25)))
         bot.all_log[channel + ' ' + guild].append((message, message.clean_content))
 
