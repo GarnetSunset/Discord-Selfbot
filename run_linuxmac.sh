@@ -1,4 +1,3 @@
-		git fetch origin master
 		echo ""
 		echo "Installing update"
 		echo "Updating to latest stable build."
