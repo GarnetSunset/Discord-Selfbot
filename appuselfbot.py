@@ -1,4 +1,3 @@
-        with open('quit.txt', 'w', encoding="utf8") as q:
             q.write('update')
         with open('restart.txt', 'w', encoding="utf8") as re:
             re.write(str(ctx.message.channel.id))
