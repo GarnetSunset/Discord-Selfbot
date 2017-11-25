@@ -1,4 +1,3 @@
-		echo "You do not have git installed. Auto-update is not currently supported" # TODO HTTP update
 		echo "Git is almost certainly available from your package manager. Install with:"
 		echo "sudo apt-get install git-all"
 	fi
