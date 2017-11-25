@@ -1,4 +1,3 @@
-					git reset --hard origin/master
 					echo "Update succeeded"
 					sleep 2
 				fi
