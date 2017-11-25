@@ -1,4 +1,3 @@
-            pid = open('notifier.txt', 'r', encoding="utf8").read()
             try:
                 p = psutil.Process(int(pid))
                 p.kill()
