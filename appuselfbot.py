@@ -1,4 +1,3 @@
-                                games = json.load(g)
 
                             bot.game = games['games']
                             if bot.is_stream and '=' in games['games']:
