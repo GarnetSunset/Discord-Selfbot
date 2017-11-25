@@ -1,4 +1,3 @@
-		echo "Installing update"
 		echo "Updating to latest stable build."
 		if git pull origin master ; then
 			echo "Update succeeded"
