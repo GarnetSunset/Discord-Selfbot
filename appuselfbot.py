@@ -1,4 +1,3 @@
-        avi = random.choice(all_avis)
         bot.avatar = avi
     if not os.path.isfile('settings/optional_config.json'):
         conf = load_config()
