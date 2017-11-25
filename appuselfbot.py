@@ -1,4 +1,3 @@
-            print("Empty command prefixes are invalid.")
             
     config["customcmd_prefix"] = False
     while not config["customcmd_prefix"]:
