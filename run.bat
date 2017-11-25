@@ -1,4 +1,3 @@
-:run
 	if exist tmp.txt del tmp.txt
 	FOR /f %%p in ('where python') do SET PYTHONPATH=%%p
 	echo Checking/Installing requirements (takes some time on first install)...
