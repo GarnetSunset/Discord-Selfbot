@@ -1,4 +1,3 @@
-
 if _test_run:
     try:
         samples = os.listdir('settings')  # generating the config files from sample while building
