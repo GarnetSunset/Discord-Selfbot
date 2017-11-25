@@ -1,4 +1,3 @@
-			*)
 				echo "Wrong Python version!"
 				echo "You need python 3.5.2 or up to use this bot!"
 				exit
