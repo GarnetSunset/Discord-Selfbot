@@ -1,4 +1,3 @@
-        except Exception as e:
             print("Failed to transfer custom cogs to custom_cogs folder. Error: %s" % str(e))
     for extension in os.listdir("cogs"):
         if extension.endswith('.py'):
