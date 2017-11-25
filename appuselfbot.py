@@ -1,4 +1,3 @@
-                        avi_check = avatar_time_check(bot.avatar_time, bot.avatar_interval)
                         if avi_check:
                             bot.avatar_time = avi_check
                             with open('settings/avatars.json', encoding="utf8") as g:
