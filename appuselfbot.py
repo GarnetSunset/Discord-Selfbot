@@ -1,4 +1,3 @@
-                                    next_avatar = random.randint(0, len(all_avis) - 1)
                                 current_avatar = next_avatar
                                 bot.avatar = all_avis[next_avatar]
                                 with open('avatars/%s' % bot.avatar, 'rb') as fp:
