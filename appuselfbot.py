@@ -1,4 +1,3 @@
-        await ctx.send(bot.bot_prefix + 'Reloaded {} of {} modules.'.format(l, len(utils)))
 
 
 # On all messages sent (for quick commands, custom commands, and logging messages)
