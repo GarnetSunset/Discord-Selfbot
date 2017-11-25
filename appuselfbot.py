@@ -1,4 +1,3 @@
-                            em.set_thumbnail(url=message.author.avatar_url)
                         except:
                             pass
                         if bot.notify['type'] == 'msg':
