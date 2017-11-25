@@ -1,4 +1,3 @@
-        await ctx.send(bot.bot_prefix + 'Restarting...')
 
     if bot.subpro:
         bot.subpro.kill()
