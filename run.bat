@@ -1,4 +1,3 @@
-	goto run
 :force
 	git fetch --all
 	git reset --hard origin/master
