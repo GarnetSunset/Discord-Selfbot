@@ -1,4 +1,3 @@
-    git fetch --all
 	git reset --hard origin/master
 )
 git remote show origin > tmp.txt
