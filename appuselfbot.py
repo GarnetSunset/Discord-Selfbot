@@ -1,4 +1,3 @@
-            json.dump({'password': '', 'interval': '0', 'type': 'random'}, avis, indent=4)
     with open('settings/avatars.json', 'r', encoding="utf8") as g:
         avatars = json.load(g)
     bot.avatar_interval = avatars['interval']
