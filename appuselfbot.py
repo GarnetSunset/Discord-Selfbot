@@ -1,4 +1,3 @@
-    try:
         samples = os.listdir('settings')  # generating the config files from sample while building
         for f in samples:
             if f.endswith('sample') and f[:-7] not in samples:
