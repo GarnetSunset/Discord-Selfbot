@@ -1,4 +1,3 @@
-            re.write(str(ctx.message.channel.id))
         await ctx.send(bot.bot_prefix + 'Restarting...')
 
     if bot.subpro:
