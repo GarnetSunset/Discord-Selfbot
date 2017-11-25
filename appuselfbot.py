@@ -1,4 +1,3 @@
-    with open('settings/config.json', encoding='utf-8', mode="w") as f:
         dump(config, f, sort_keys=True, indent=4)
 
 
