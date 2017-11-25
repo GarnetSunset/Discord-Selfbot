@@ -1,4 +1,3 @@
-git remote add origin https://github.com/appu1232/Discord-Selfbot.git >nul 2>&1
 get fetch origin master >nul 2>&1
 if not exist appuselfbot.py (
     echo This seems to be your first run. The setup will now proceed to download all required files. They will be downloaded to the same location as where this run.bat file is.
