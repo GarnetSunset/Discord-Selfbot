@@ -1,4 +1,3 @@
-                response = quickcmds(message.content.lower().strip())
                 if response:
                     await message.delete()
                     await message.channel.send(response)
