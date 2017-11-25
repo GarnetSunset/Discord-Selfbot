@@ -1,4 +1,3 @@
-    return logger
 
 
 logger = set_log()
