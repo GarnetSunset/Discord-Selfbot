@@ -1,4 +1,3 @@
-        for i in utils:
             bot.unload_extension(i)
             try:
                 bot.load_extension(i)
