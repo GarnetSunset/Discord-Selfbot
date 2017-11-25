@@ -1,4 +1,3 @@
-    """Update the bot if there is an update available."""
     if msg:
         latest = update_bot(False) if msg == 'show' else update_bot(True)
     else:
