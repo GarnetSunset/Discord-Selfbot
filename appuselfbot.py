@@ -1,4 +1,3 @@
-        else:
             token = get_config_value('config', 'token')
         try:
             bot.run(token, bot=False)
