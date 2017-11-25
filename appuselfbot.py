@@ -1,4 +1,3 @@
-    _runs_in_loop = False
 else:
     _runs_in_loop = True
 
