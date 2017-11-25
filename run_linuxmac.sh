@@ -1,4 +1,3 @@
-				echo "Pip could not be installed. Try using your package manager"
 				exit 253
 			fi
 		fi
