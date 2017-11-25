@@ -1,4 +1,3 @@
-			if [[ "$input" =~ "y" ]] ; then
 				echo ""
 				echo "Installing update"
 				echo "Updating to latest stable build."
