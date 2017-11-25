@@ -1,4 +1,3 @@
-async def quit(ctx):
     """Quits the bot."""
     print('Bot exiting...')
     if bot.subpro:
