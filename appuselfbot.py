@@ -1,4 +1,3 @@
-
     else:
         print('Restarting...')
         with open('restart.txt', 'w', encoding="utf8") as re:
