@@ -1,4 +1,3 @@
-			echo "Update succeeded"
 			sleep 2
 		fi
 		sleep 1
