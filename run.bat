@@ -1,4 +1,3 @@
-SETLOCAL EnableDelayedExpansion
 python -V >nul 2>&1 || goto :python
 git init . >nul || goto :git
 git remote add origin https://github.com/appu1232/Discord-Selfbot.git >nul 2>&1
