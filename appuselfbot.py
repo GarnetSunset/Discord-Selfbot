@@ -1,4 +1,3 @@
-
 @bot.command(pass_context=True, aliases=['reboot'])
 async def restart(ctx):
     """Restarts the bot."""
