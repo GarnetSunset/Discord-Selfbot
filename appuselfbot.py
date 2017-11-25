@@ -1,4 +1,3 @@
-    if not hasattr(bot, 'all_log'):
         bot.all_log = {}
     if channel + ' ' + guild in bot.all_log:
         bot.all_log[channel + ' ' + guild].append((message, message.clean_content))
