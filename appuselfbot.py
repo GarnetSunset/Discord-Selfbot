@@ -1,4 +1,3 @@
-                        if bot.notify['type'] == 'msg':
                             await webhook(em, 'embed', is_separate)
                         elif bot.notify['type'] == 'ping':
                             await webhook(em, 'embed ping', is_separate)
