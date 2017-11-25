@@ -1,4 +1,3 @@
-        if heroku:
             token = os.environ['TOKEN']
         else:
             token = get_config_value('config', 'token')
