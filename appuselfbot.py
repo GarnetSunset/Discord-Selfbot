@@ -1,4 +1,3 @@
-            git = {}
             json.dump(git, fp, indent=4)
     with open('settings/github.json', 'r+', encoding="utf8") as fp:
         opt = json.load(fp)
