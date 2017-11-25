@@ -1,4 +1,3 @@
-
     sys.stderr = err
     bot.loop.create_task(game_and_avatar(bot))
 
