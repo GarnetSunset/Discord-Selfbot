@@ -1,4 +1,3 @@
-    if not os.path.isfile('settings/avatars.json'):
         with open('settings/avatars.json', 'w', encoding="utf8") as avis:
             json.dump({'password': '', 'interval': '0', 'type': 'random'}, avis, indent=4)
     with open('settings/avatars.json', 'r', encoding="utf8") as g:
