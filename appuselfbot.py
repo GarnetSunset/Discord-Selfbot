@@ -1,4 +1,3 @@
-    await ctx.send(bot.bot_prefix + 'Bot shut down.')
     os._exit(0)
 
 
