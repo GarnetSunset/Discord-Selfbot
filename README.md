@@ -1,4 +1,3 @@
-- Keyword/user logger and notifier. Get notified when keywords you specified are said in any of your server or follow users and get notified when they send a message (with a cooldown). Useful to track someone or see if someone mentioned your name or your favorite show/book/whatever else keywords and you want to stalk— I mean, talk to them about it.
 - Set your game/stream to anything or set up multiple and cycle through them.
 - Cycle through avatars automatically.
 - Save image/gif/webm dumps (urls or attachments) in channels quickly to your computer (checks for duplicates as well).
