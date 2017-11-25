@@ -1,4 +1,3 @@
-                        os.rename("cogs/" + filename + ".py", "custom_cogs/" + filename + ".py")
         except Exception as e:
             print("Failed to transfer custom cogs to custom_cogs folder. Error: %s" % str(e))
     for extension in os.listdir("cogs"):
