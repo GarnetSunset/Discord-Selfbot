@@ -1,4 +1,3 @@
-			if pip3 install --user -r requirements.txt; then
 				echo "Starting bot..."
 				python3 loopself.py
 				ret=$?
