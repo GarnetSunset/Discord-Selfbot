@@ -1,4 +1,3 @@
-- Purge the last n messages you sent in a channel.
 - Simple calculator.
 - Quick commands so you can post pointless stuff as fast as possible like ``lenny``, ``shrug``, ``flip``, ``unflip``, and ``comeatmebro``
 - Meme commands like spacing text, converting text to regional indicator emojis, mass reacting to messages, and converting text to ascii art.
