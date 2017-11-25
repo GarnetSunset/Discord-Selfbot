@@ -1,4 +1,3 @@
-			sleep 2
 		fi
 		sleep 1
 	else
