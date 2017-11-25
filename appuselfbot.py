@@ -1,4 +1,3 @@
-            opt['embed_color'] = ''
         if 'quoteembed_color' not in opt:
             opt['quoteembed_color'] = 'bc0b0b'
         if 'customcmd_color' not in opt:
