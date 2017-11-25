@@ -1,4 +1,3 @@
-        with open('settings/todo.json', 'w', encoding="utf8") as t:
             todo = {}
             json.dump(todo, t, indent=4)
 
