@@ -1,4 +1,3 @@
-                                else:
                                     next_avatar += 1
                                 bot.avatar = all_avis[next_avatar]
                                 with open('avatars/%s' % bot.avatar, 'rb') as fp:
