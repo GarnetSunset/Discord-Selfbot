@@ -1,4 +1,3 @@
-
                 elif '{} all'.format(str(message.author.id)) in bot.log_conf['keyusers']:
                     user = '{} all'.format(str(message.author.id), str(message.guild.id))
                     cd_active, user_p = user_post(bot.key_users, user)
