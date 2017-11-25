@@ -1,4 +1,3 @@
-}
 
 run_bot() {
 	echo "Checking requirements..."
