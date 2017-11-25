@@ -1,4 +1,3 @@
-        with open('restart.txt', 'w', encoding="utf8") as re:
             re.write(str(ctx.message.channel.id))
         if bot.subpro:
             bot.subpro.kill()
