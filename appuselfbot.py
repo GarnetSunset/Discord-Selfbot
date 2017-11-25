@@ -1,4 +1,3 @@
-        if 'password' not in opt:
             opt['password'] = ''
         if 'reponame' not in opt:
             opt['reponame'] = ''
