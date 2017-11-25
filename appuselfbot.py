@@ -1,4 +1,3 @@
-            games = json.load(g)
             if type(games['games']) is list:
                 bot.game = games['games'][0]
                 bot.game_interval = games['interval']
