@@ -1,4 +1,3 @@
-                        await bot.change_presence(game=discord.Game(name=g, type=1, url=url), status=set_status(bot), afk=True)
                     elif bot.game and not bot.is_stream:
                         await bot.change_presence(game=discord.Game(name=bot.game, type=bot.status_type),
                                                   status=set_status(bot), afk=True)
