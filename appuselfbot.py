@@ -1,4 +1,3 @@
-        json.dump(opt, fp, indent=4)
 
     if not os.path.isfile('settings/github.json'):
         with open('settings/github.json', 'w', encoding="utf8") as fp:
