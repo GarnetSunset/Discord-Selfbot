@@ -1,4 +1,3 @@
-import gc
 import psutil
 import sys
 import re
