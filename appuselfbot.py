@@ -1,4 +1,3 @@
-                    bot.self_log[str(message.channel.id)] = collections.deque(maxlen=100)
             except AttributeError:
                 return
             bot.self_log[str(message.channel.id)].append(message)
