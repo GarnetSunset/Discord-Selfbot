@@ -1,4 +1,3 @@
-        '%(message)s',
         datefmt="[%d/%m/%Y %H:%M]")
 
     logger = logging.getLogger("discord")
