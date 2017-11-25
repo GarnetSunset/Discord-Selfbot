@@ -1,4 +1,3 @@
-            fp.write(str(bot.subpro.pid))
 
 
 @bot.after_invoke
