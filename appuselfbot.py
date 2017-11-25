@@ -1,4 +1,3 @@
-        if 'reponame' not in opt:
             opt['reponame'] = ''
         fp.seek(0)
         fp.truncate()
