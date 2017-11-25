@@ -1,4 +1,3 @@
-- Thanks to [IgneelDxD](https://github.com/IgneelDxD) for a lot of suggestions and fixes.
 - Thanks to [Bluscream](https://github.com/Bluscream) for a lot of helpful pull requests and custom cogs.
 
 ## Buy me a cup of coffee
