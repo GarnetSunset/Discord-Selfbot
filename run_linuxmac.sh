@@ -1,4 +1,3 @@
-		case "$(python --version 2>&1)" in
 			*" 3."*)
 				echo ""
 				;;
