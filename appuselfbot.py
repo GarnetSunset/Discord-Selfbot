@@ -1,4 +1,3 @@
-            bot.unload_extension(i)
             try:
                 bot.load_extension(i)
             except Exception as e:
