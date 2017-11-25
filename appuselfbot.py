@@ -1,4 +1,3 @@
-        await ctx.send(bot.bot_prefix + "You don't have permissions to use that command.")
     elif isinstance(error, commands.errors.MissingRequiredArgument):
         formatter = commands.formatter.HelpFormatter()
         help = await formatter.format_help_for(ctx, ctx.command)
