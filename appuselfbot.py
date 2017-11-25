@@ -1,4 +1,3 @@
-        pass  # duo to some sample files sometimes missing passing it will make sure nothing goes wrong
     print("Quitting: test run")
     exit(0)
 
