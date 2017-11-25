@@ -1,4 +1,3 @@
-    heroku = False
 
 if _test_run:
     try:
