@@ -1,4 +1,3 @@
-                        if game_check:
                             bot.game_time = game_check
                             with open('settings/games.json', encoding="utf8") as g:
                                 games = json.load(g)
