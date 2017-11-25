@@ -1,4 +1,3 @@
-    stdout_handler.setLevel(logging.INFO)
 
     if not os.path.exists('settings/logs'):
         os.makedirs('settings/logs')
