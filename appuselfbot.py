@@ -1,4 +1,3 @@
-    token = temp[len(temp) - 1]
     webhook_class = Webhook(bot)
     request_webhook = webhook_class.request_webhook
     if send_type.startswith('embed'):
