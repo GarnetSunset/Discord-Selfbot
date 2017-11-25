@@ -1,4 +1,3 @@
-    if latest:
         await ctx.send(bot.bot_prefix + 'There is an update available for the bot. Download and apply the update on restart? (y/n)')
         reply = await bot.wait_for("message", check=check)
         with open('restart.txt', 'w', encoding="utf8") as re:
