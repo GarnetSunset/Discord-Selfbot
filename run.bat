@@ -1,4 +1,3 @@
-	echo Starting up...
 	goto run
 :force
 	git fetch --all
