@@ -1,4 +1,3 @@
-                        split_msg = ''
                         for i, blocks in enumerate(split_list):
                             for b in blocks.split('\n'):
                                 split_msg += b + '\n'
