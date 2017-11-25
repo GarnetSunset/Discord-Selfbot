@@ -1,4 +1,3 @@
-            try:
                 bot.status_type = games['status']
             except KeyError:
                 bot.status_type = 0
