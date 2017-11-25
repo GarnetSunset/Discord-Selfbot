@@ -1,4 +1,3 @@
-	    echo Requirements installation failed. Perhaps some dependency is missing or access was denied? Possible solutions:
 	    echo - Run as administrator
 	    echo - Google the error
 	    echo - Visit the Discord server for help
