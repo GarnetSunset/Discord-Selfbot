@@ -1,4 +1,3 @@
-        filename='settings/logs/bot.log', encoding='utf-8', mode='a',
         maxBytes=10**7, backupCount=5)
     errhandler.setFormatter(errformat)
 
