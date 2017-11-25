@@ -1,4 +1,3 @@
-    parser.add_argument("--reset-config",  # Allows for Testing of mac related code
                         action="store_true",
                         help="Reruns the setup")
     parser.add_argument("-s", "--silent",  # Allows for Testing of mac related code
