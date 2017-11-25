@@ -1,4 +1,3 @@
-            except AttributeError:
                 return
             bot.self_log[str(message.channel.id)].append(message)
             if message.content.startswith(bot.customcmd_prefix):
