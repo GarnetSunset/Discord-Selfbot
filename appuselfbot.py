@@ -1,4 +1,3 @@
-                    user = '{} all'.format(str(message.author.id), str(message.guild.id))
                     cd_active, user_p = user_post(bot.key_users, user)
                     if cd_active:
                         bot.log_conf['keyusers'][user] = bot.key_users[user] = user_p
