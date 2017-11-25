@@ -1,4 +1,3 @@
-		if [ -d "settings" ]; then
 			cp -r settings settings_backup
 		fi
 		new=$(git remote show origin)
