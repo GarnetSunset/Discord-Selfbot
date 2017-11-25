@@ -1,4 +1,3 @@
-	pause >nul
 	CD /D "%root%"
 	goto :EOF
 :run
