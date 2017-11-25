@@ -1,5 +1,4 @@
 
-
 @bot.after_invoke
 async def after_any_command(ctx):
     if not ctx.command_failed:
