@@ -1,4 +1,3 @@
-    await bot.process_commands(message)
 
 
 def add_alllog(channel, guild, message):
