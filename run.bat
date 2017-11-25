@@ -1,4 +1,3 @@
-:prompt
 	choice /t 10 /c yn /d n /m "There is an update for the bot. Download now?"
 	if errorlevel 2 goto :run
 	if errorlevel 1 goto :update
