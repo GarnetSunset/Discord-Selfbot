@@ -1,4 +1,3 @@
-	echo Latest update:
 	git --no-pager log --pretty=oneline -n1 origin/master ^master
 	git pull origin master
 	if errorlevel 1 goto force
