@@ -1,4 +1,3 @@
-            print('Something went wrong: %s' % e)
 
         await asyncio.sleep(5)
 
