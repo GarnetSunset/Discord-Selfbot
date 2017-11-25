@@ -1,4 +1,3 @@
-    sys.stderr = open(os.devnull, 'w')
     if not os.path.exists("custom_cogs"):
         try:
             os.makedirs("custom_cogs")
