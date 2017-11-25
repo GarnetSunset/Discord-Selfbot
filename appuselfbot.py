@@ -1,4 +1,3 @@
-        bot.message_count += 1
 
     # If the message was sent by me
     if message.author.id == bot.user.id:
