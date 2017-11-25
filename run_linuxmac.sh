@@ -1,4 +1,3 @@
-			echo "Using pip as a python3 module"
 			echo "Upgrading pip"
 			if python3 -m pip install --user --upgrade pip; then
 				echo "Upgrading requirements"
