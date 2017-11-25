@@ -1,4 +1,3 @@
-        opt = json.load(fp)
         if 'embed_color' not in opt:
             opt['embed_color'] = ''
         if 'quoteembed_color' not in opt:
