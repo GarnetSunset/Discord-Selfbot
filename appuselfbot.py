@@ -1,4 +1,3 @@
-    return parser
 
 
 args = parse_cmd_arguments().parse_args()
