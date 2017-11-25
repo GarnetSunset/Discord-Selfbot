@@ -1,4 +1,3 @@
-                                continue
                         if word.startswith('[isolated]'):
                             word = word[10:].lower()
                             found = re.findall('\\b' + word + '\\b', message.content.lower())
