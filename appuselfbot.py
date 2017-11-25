@@ -1,4 +1,3 @@
-            try:
                 bot.load_extension(txt)
             except:
                 await ctx.send('``` {}: {} ```'.format(type(e).__name__, e))
