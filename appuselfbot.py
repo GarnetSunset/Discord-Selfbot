@@ -1,4 +1,3 @@
-
     while True:
         # Cycles game if game cycling is enabled.
         try:
