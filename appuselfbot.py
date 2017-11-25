@@ -1,4 +1,3 @@
-        try:
             bot.load_extension(txt)
         except Exception as e:
             try:
