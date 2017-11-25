@@ -1,4 +1,3 @@
-try:
     token = os.environ['TOKEN']
     heroku = True
 except KeyError:
