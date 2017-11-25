@@ -1,4 +1,3 @@
-                pass
             with open('quit.txt', 'w', encoding="utf8") as q:
                 q.write('update')
             print('Downloading update and restarting...')
