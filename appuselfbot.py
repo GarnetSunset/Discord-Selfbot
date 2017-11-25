@@ -1,4 +1,3 @@
-from cogs.utils.allmsgs import custom, quickcmds
 from cogs.utils.webhooks import Webhook
 from cogs.utils.checks import *
 from cogs.utils.config import *
