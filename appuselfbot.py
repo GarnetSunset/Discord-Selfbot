@@ -1,4 +1,3 @@
-                            word = word[10:].lower()
                             found = re.findall('\\b' + word + '\\b', message.content.lower())
                             if found:
                                 word_found = True
