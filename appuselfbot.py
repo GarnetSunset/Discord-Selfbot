@@ -1,4 +1,3 @@
-
     # If the message was sent by me
     if message.author.id == bot.user.id:
         if hasattr(bot, 'icount'):
